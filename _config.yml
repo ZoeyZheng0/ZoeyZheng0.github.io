@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wanrong Zheng"
+title                    : "Wanrong (Zoey) Zheng"
 title_separator          : "-"
-name                     : &name "Wanrong Zheng"
-description              : &description "Computer Science master student at University of Southern California"
+name                     : &name "Wanrong (Zoey) Zheng"
+description              : &description "Computer Science master student at University of Southern California."
 url                      : https://ZoeyZheng0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZoeyZheng0.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wanrong (Zoey) Zheng"
+  name             : "Zoey Zheng"
   avatar           : "profile.png"
-  bio              : "Computer Science master student at University of Southern California"
+  bio              : "Computer Science master student at University of Southern California."
   location         : "Los Angeles, CA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  wanrongz@usc.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ZoeyZheng0"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "ZoeyZheng0"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "zoeyzheng0808"
   vine             :
   weibo            :
   xing             :
