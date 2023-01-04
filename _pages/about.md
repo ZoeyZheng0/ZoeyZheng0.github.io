@@ -23,21 +23,32 @@ Specifically, My current research focuses include:
 - __Face Recognition__: high performance large scale Face Recognition task with real-world multi-race data.
 
 ## Research Experience
-<img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="250" >
-IRIS Computer Vision Lab, USC, Los Angeles, CA
+<img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60" >
 
-Research Assistant. Jan 2022 – May 2023
+[IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/), USC, Los Angeles, CA <br/>
+Research Assistant. Jan. 2022 – May. 2023 <br/>
+Advisor: Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
 
-Advisor: Prof. Ram Nevatia
+<img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60">
 
-<img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="250">
-iLab, USC, Los Angeles, CA
+[iLab](http://ilab.usc.edu/), USC, Los Angeles, CA <br/>
+Research Assistant. Jan. 2022 – May. 2023 <br/>
+Advisor: Prof. [Laurent Itti](http://ilab.usc.edu/itti/).
 
-Research Assistant. Jan 2022 – May 2023
+<img style="float: right;" src="https://zoeyzheng0.github.io/images/sensetime.png" width="60">
 
-Advisor: Prof. Larent Itti
+Research Center, [SenseTime](https://www.sensetime.com/en), Shenzhen, China <br/>
+Algorithm Development Engineer. Sep. 2019 – Aug. 2021 <br/>
+Advisor: Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en).
 
-<img style="float: right;" src="https://zoeyzheng0.github.io/images/sensetime.png" width="250">
-SenseTime, Shenzhen, China
+<img style="float: right;" src="https://zoeyzheng0.github.io/images/siat-logo.png" width="60">
+
+[Shenzhen Institue of advanced technology](https://english.siat.ac.cn/), Chinese Academy of Sciences, Shenzhen, China <br/>
+Research Assistant. Jul. 2018 – Jun. 2019 <br/>
+
+<img style="float: right;" src="https://zoeyzheng0.github.io/images/cuhkri.png" width="60">
+
+[Shenzhen Research Institute](https://www.cuhkri.org.cn/en.html), the Chinese University of Hong Kong, Shenzhen, China <br/>
+Research Assistant. Dec. 2017 – Jun. 2018 <br/>
 
 ## News
