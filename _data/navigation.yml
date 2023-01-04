@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/CV.pdf
-
   - title: "Experience"
     url: /experience/
 
@@ -12,6 +9,9 @@ main:
   - title: "Personal"
     url: /personal/
 
+  - title: "CV"
+    url: /files/CV.pdf
+    
   # - title: "Talks"
   #   url: /talks/    
 

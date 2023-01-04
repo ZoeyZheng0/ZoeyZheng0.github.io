@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ## About me
-Hi there, my name is __Wanrong (Zoey) Zheng__ [\[CV\]](https://ZoeyZheng0.github.io/files/CV.pdf). 
+Hi there :) My name is __Wanrong (Zoey) Zheng__ [\[CV\]](https://ZoeyZheng0.github.io/files/CV.pdf). 
 
-I am an M.S. Computer Science student at [USC Viterbi School of Engineering](https://viterbischool.usc.edu/), advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and Prof. [Laurent Itti](http://ilab.usc.edu/itti/).
+I am currently an M.S. Computer Science student at [USC Viterbi School of Engineering](https://viterbischool.usc.edu/), advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and Prof. [Laurent Itti](http://ilab.usc.edu/itti/).
 Before USC, I was working in [SenseTime](https://www.sensetime.com/en) as fulltime Computer Vision researcher (2019-2021), advised by Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en).
 
 My research interests lie in computer vision and deep learning, especially include Data-centric and Human-centric AI. My long-term research goal is to build a data-driven AI system that: (1) recognizes and represents scenes effectively, (2) is adaptive to multi-modalities (vision, language, spatial information, etc.), (3) can be reconstructed, understood, and corrected by humans.
@@ -37,18 +37,18 @@ Advisor: Prof. [Laurent Itti](http://ilab.usc.edu/itti/).
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/sensetime.png" width="60">
 
-Research Center, [SenseTime](https://www.sensetime.com/en), Shenzhen, China <br/>
+Research Center, [SenseTime](https://www.sensetime.com/en), China <br/>
 Algorithm Development Engineer. Sep. 2019 – Aug. 2021 <br/>
 Advisor: Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en).
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/siat-logo.png" width="60">
 
-[Shenzhen Institue of advanced technology](https://english.siat.ac.cn/), Chinese Academy of Sciences, Shenzhen, China <br/>
+[Shenzhen Institue of advanced technology](https://english.siat.ac.cn/), Chinese Academy of Sciences, China <br/>
 Research Assistant. Jul. 2018 – Jun. 2019 <br/>
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/cuhkri.png" width="60">
 
-[Shenzhen Research Institute](https://www.cuhkri.org.cn/en.html), the Chinese University of Hong Kong, Shenzhen, China <br/>
-Research Assistant. Dec. 2017 – Jun. 2018 <br/>
+[Shenzhen Research Institute](https://www.cuhkri.org.cn/en.html), the Chinese University of Hong Kong, China <br/>
+Research Intern. Dec. 2017 – Jun. 2018 <br/>
 
 ## News
