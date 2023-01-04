@@ -23,7 +23,7 @@ Advisor: Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAA
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/SUSTech.png" width="60">
 
-[South University of Science and Technology of China](https://www.sustech.edu.cn/en/), Shenzhen, China <br/>
+South University of Science and Technology of China, Shenzhen, China <br/>
 Exchange in Computer Science. Jan. 2021 – Jun. 2021 <br/>
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/siat-logo.png" width="60">
@@ -40,3 +40,4 @@ Research Intern. Dec. 2017 – Jun. 2018 <br/>
 
 [Anhui University](https://en.ahu.edu.cn/), Hefei, China <br/>
 Bachelor of Science in Computer Science. Aug. 2014 – Jun. 2018 <br/>
+GPA: 89.07/100, top 6%
