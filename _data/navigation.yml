@@ -3,11 +3,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Experience"
+    url: /experience/
 
-  - title: "Awards and Leadership"
-    url: /awards/
+  - title: "Publications and Awards"
+    url: /publications/
   
   - title: "Personal"
     url: /personal/
