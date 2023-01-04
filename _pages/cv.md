@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /files/CV.pdf
+permalink: https://ZoeyZheng0.github.io/files/CV.pdf
 title: CV
 nav: true
 ---
