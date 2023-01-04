@@ -23,5 +23,21 @@ Specifically, My current research focuses include:
 - __Face Recognition__: high performance large scale Face Recognition task with real-world multi-race data.
 
 ## Research Experience
+<img style="float: right;" height="150" src="https://zoeyzheng0.github.io/images/USC.png">
+IRIS Computer Vision Lab, USC, Los Angeles, CA
+
+Research Assistant. Jan 2022 – May 2023
+
+Advisor: Prof. Ram Nevatia
+
+<img style="float: right;" height="150" src="https://zoeyzheng0.github.io/images/USC.png">
+iLab, USC, Los Angeles, CA
+
+Research Assistant. Jan 2022 – May 2023
+
+Advisor: Prof. Larent Itti
+
+<img style="float: right;" height="150" src="https://zoeyzheng0.github.io/images/sensetime.png">
+SenseTime, Shenzhen, China
 
 ## News
