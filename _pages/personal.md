@@ -11,7 +11,7 @@ author_profile: true
 
 - You can also call me Zoey. This name reminds me of a smart and nimble girl, which is pretty like me, so I take it as my English name.
 
-- I enjoy watching movies and animes during holidays. Movies are my best friends since I was young. I have watched over 1000 movies.
+- I enjoy watching movies and animes during holidays. Movies are always my best friends since I was a kid. I have watched over 1000 movies.
 
 - My favorite films are: 
     - the Fight Club
