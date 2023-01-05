@@ -32,4 +32,4 @@ __Wanrong Zheng__ and Xiaoke Jiang </br>
 CN202011132611.3 (2020)
 
 - **Passenger Illegal Handing Bags Across Railing Detection in Real Railway Scene.**  
-Sun Zhe and __Wanrong Zheng__. 
+Sun Zhe and __Wanrong Zheng__. (2020)
