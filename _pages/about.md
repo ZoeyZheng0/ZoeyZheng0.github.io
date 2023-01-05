@@ -16,7 +16,7 @@ Before USC, I was working in [SenseTime](https://www.sensetime.com/en) as fullti
 
 My research interests lie in computer vision and deep learning, especially include Data-centric and Human-centric AI. My long-term research goal is to build a data-driven AI system that: (1) recognizes and represents scenes effectively, (2) is adaptive to multi-modalities (vision, language, spatial information, etc.), (3) can be reconstructed, understood, and corrected by humans.
 
-Specifically, My current research focuses include: 
+Specifically, my current research focuses include: 
 - __Person Re-Identification__: retrieving the same individual based on human pose, gait, and face information,
 - __3D vision__: representing and reconstructing 3-D dynamic human shape and pose, 
 - __Explainable Artificial Intelligence__: transparent and effective human-in-the-loop learning, 
