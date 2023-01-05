@@ -50,5 +50,3 @@ Research Assistant. Jul. 2018 – Jun. 2019 <br/>
 
 [Shenzhen Research Institute](https://www.cuhkri.org.cn/en.html), the Chinese University of Hong Kong, China <br/>
 Research Intern. Dec. 2017 – Jun. 2018 <br/>
-
-## News
