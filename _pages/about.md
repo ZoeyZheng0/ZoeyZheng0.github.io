@@ -11,7 +11,7 @@ redirect_from:
 ## About me
 Hi there 👋 My name is __Wanrong (Zoey) Zheng__ [\[CV\]](https://ZoeyZheng0.github.io/files/CV.pdf). 
 
-I am currently a M.S. Computer Science student at [USC Viterbi School of Engineering](https://viterbischool.usc.edu/), advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and Prof. [Laurent Itti](http://ilab.usc.edu/itti/).
+I am currently an M.S. Computer Science student at [USC Viterbi School of Engineering](https://viterbischool.usc.edu/), advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and Prof. [Laurent Itti](http://ilab.usc.edu/itti/).
 Before USC, I was working in [SenseTime](https://www.sensetime.com/en) as fulltime computer vision researcher (2019-2021), advised by Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en).
 
 My research interests lie in computer vision and deep learning, especially include Data-centric and Human-centric AI. My long-term research goal is to build a data-driven AI system that: (1) recognizes and represents scenes effectively, (2) is adaptive to multi-modalities (vision, language, spatial information, etc.), (3) can be reconstructed, understood, and corrected by humans.
