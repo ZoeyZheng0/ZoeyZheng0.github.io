@@ -24,11 +24,11 @@ Proceedings of the AAAI Conference on Artificial Intelligence, 2021. [\[Paper\]]
 
 ## Patents
 - **A Railway Face Recognition Solution Based on History Passengers' Riding Pattern.**  
-__Wanrong Zheng__, Xiaoke Jiang, Jikui Bao, Qichen Li and Cong Ji. </br>
+__Wanrong Zheng__, Xiaoke Jiang, Jikui Bao, Qichen Li and Cong Ji. <br/>
 CN202110654499.8 (2021)
 
 - **A Identification method Based on History Passenger Flow Big Data.**  
-__Wanrong Zheng__ and Xiaoke Jiang </br>
+__Wanrong Zheng__ and Xiaoke Jiang <br/>
 CN202011132611.3 (2020)
 
 - **Passenger Illegal Handing Bags Across Railing Detection in Real Railway Scene.**  
