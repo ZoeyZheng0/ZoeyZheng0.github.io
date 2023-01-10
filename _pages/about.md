@@ -18,7 +18,7 @@ My research interests lie in computer vision and deep learning, especially inclu
 
 Specifically, my current research focuses include: 
 - __Person Re-Identification__: retrieving the same individual based on human pose, gait, and face information,
-- __3D vision__: representing and reconstructing 3-D dynamic human shape and pose, 
+- __3D Vision__: representing and reconstructing 3-D dynamic human shape and pose, 
 - __Explainable Artificial Intelligence__: transparent and effective human-in-the-loop learning, 
 - __Face Recognition__: high performance large scale Face Recognition task with real-world multi-race data.
 
