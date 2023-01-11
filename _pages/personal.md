@@ -9,7 +9,7 @@ author_profile: true
 
 - My Chinese name is Wanrong (莞蓉). The first character Wan (莞) means smiles and the second character Rong (蓉) means flowers. 
 
-- You can also call me Zoey. This name reminds me of a smart and nimble girl, which is pretty like me, so I take it as my English name.
+- You can also call me Zoey. This name reminds me of a smart and nimble girl, which is pretty like me, so I took it as my English name.
 
 - I enjoy watching movies and animes during holidays. Movies are always my best friends since I was a kid. I have watched over 1000 movies.
 
