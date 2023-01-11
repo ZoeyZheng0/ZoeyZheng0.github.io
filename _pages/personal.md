@@ -14,7 +14,7 @@ author_profile: true
 - I enjoy watching movies and animes during holidays. Movies are always my best friends since I was a kid. I have watched over 1000 movies.
 
 - My favorite films are: 
-    - the Fight Club
+    - The Fight Club
     - 2001: A Space Odyssey
     - Kill Bill
     - The Dark Knight
