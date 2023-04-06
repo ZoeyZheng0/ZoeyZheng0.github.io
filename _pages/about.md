@@ -26,19 +26,19 @@ Specifically, my current research focuses include:
 
 [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/), USC, Los Angeles, CA <br/>
 Research Assistant. Jan. 2022 – May. 2023 <br/>
-Advisor: Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
+Advisor: Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60">
 
 [iLab](http://ilab.usc.edu/), USC, Los Angeles, CA <br/>
 Research Assistant. Jan. 2022 – May. 2023 <br/>
-Advisor: Prof. [Laurent Itti](http://ilab.usc.edu/itti/).
+Advisor: Prof. [Laurent Itti](http://ilab.usc.edu/itti/)
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/sensetime.png" width="60">
 
 Research Center, [SenseTime](https://www.sensetime.com/en), China <br/>
 Algorithm Development Engineer. Sep. 2019 – Aug. 2021 <br/>
-Advisor: Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en).
+Advisor: Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en)
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/siat-logo.png" width="60">
 

@@ -6,8 +6,8 @@ main:
   - title: "Blog"
     url: /year-archive/
 
-  - title: "Experience"
-    url: /experience/
+  # - title: "Experience"
+  #   url: /experience/
 
   - title: "Personal"
     url: /personal/
