@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Experience"
-    url: /experience/
-
   - title: "Publications and Awards"
     url: /publications/
+
+  - title: "Experience"
+    url: /experience/
 
   - title: "CV"
     url: /files/CV.pdf
 
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
 
   - title: "Personal"
