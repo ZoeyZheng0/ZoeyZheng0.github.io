@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-- My Chinese name is Wanrong (莞蓉). The first character Wan (莞) means smiles and the second character Rong (蓉) means flowers. 
+- My Chinese name is Wanrong (莞蓉). The first character, Wan (莞), signifies smiles, while the second character, Rong (蓉), represents flowers.
 
-- You can also call me Zoey. This name reminds me of a smart and nimble girl, which is pretty like me, so I took it as my English name.
+- You're also welcome to call me Zoey. I chose this name because it reminds me of a smart and nimble girl, which I like to think fits me well.
 
-- I enjoy watching movies and animes during holidays. Movies are always my best friends since I was a kid. I have watched over 1000 movies.
+- During holidays, I love to watch movies and anime. Movies have been my steadfast companions since I was a child; I've watched over 1,000 of them.
 
 - My favorite films are: 
     - The Fight Club
