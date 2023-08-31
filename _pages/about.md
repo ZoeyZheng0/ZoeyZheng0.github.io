@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About me
-Hi there 👋 My name is __Wanrong (Zoey) Zheng__ [\[CV\]](https://ZoeyZheng0.github.io/files/CV.pdf). 
+Hi there 👋 My name is __Wanrong (Zoey) Zheng__ [\[CV\]](https://ZoeyZheng0.github.io/files/ZoeyZheng_USC_CS.pdf). 
 
 I am a Computer Science MS Graduate from [USC Viterbi School of Engineering](https://viterbischool.usc.edu/), advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and Prof. [Laurent Itti](http://ilab.usc.edu/itti/).
 Before USC, I was working in [SenseTime](https://www.sensetime.com/en) as fulltime research engineer (2019-2021), advised by Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en).
@@ -60,7 +60,7 @@ IEEE International Joint Conference on Biometrics (__IJCB__), 2023 [\[Paper\]](h
 
 - **CAT-NeRF: Constancy-Aware Tx2Former for Dynamic Body Modeling**  
 Haidong Zhu, Zhaoheng Zheng, __Wanrong Zheng__, and Ram Nevatia
-IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (__CVPRW__), 2023 [\[Paper\]](https://arxiv.org/pdf/2304.07915.pdf) [\[Code\]](https://github.com/haidongz-usc/CAT-NeRF) [\[Supp\]](https://zoeyzheng0.github.io/images/paper/h36m.mp4) 
+IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (__CVPRW__), 2023 [\[Paper\]](https://arxiv.org/pdf/2304.07915.pdf) [\[Code\]](https://github.com/haidongz-usc/CAT-NeRF) [\[Supp\]](https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4) 
 <p align="center">
 <img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/CAT-Nerf.png" width="500">
 </p>
