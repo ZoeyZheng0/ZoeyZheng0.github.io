@@ -67,7 +67,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (__CVPR
 
 - **SSN3D: Self-Separated Network to Align Parts for 3D Convolution in Video Person Re-Identification**  
 Xiaoke Jiang, Yu Qiao, Junjie Yan, Qichen Li, __Wanrong Zheng__, and Dapeng Chen  
-Proceedings of the AAAI Conference on Artificial Intelligence (__AAAI__), 2021 [\[Paper\]](https://ZoeyZheng0.github.io/files/SSN3D.pdf)
+Proceedings of the AAAI Conference on Artificial Intelligence (__AAAI__), 2021 [\[Paper\]](https://ZoeyZheng0.github.io/files/SSN3D/SSN3D.pdf) [\[Supp\]](https://ZoeyZheng0.github.io/files/SSN3D/appendix.pdf) [\[Poster\]](https://ZoeyZheng0.github.io/files/SSN3D/poster.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/SSN3D/reid-3d.pdf)
 <p align="center">
 <img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/SSN3D.png" width="500">
 </p>
