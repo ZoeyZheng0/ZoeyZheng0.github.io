@@ -53,7 +53,7 @@ Research Intern. Dec. 2017 – Jun. 2018 <br/>
 ## Publications
 - **GaitRef: Gait Recognition with Refined Sequential Skeletons**  
 __Wanrong Zheng__\*, Haidong Zhu\*, Zhaoheng Zheng, and Ram Nevatia
-IEEE International Joint Conference on Biometrics (__IJCB__), 2023 <span style="color:red">__Oral__</span> [\[Paper\]](https://arxiv.org/pdf/2304.07916.pdf) [\[Code\]](https://github.com/haidongz-usc/GaitRef) [\[Poster\]](https://zoeyzheng0.github.io/GaitRef/IJCB.pdf) [\[Project\]](https://zoeyzheng0.github.io/GaitRef/)
+IEEE International Joint Conference on Biometrics (__IJCB__), 2023 <span style="color:red">__Oral__</span> [\[Paper\]](https://arxiv.org/pdf/2304.07916.pdf) [\[Code\]](https://github.com/haidongz-usc/GaitRef) [\[Poster\]](https://zoeyzheng0.github.io/files/GaitRef/IJCB.pdf) [\[Project\]](https://zoeyzheng0.github.io/GaitRef/)
 <p align="center">
 <img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/gaitref.png" width="500">
 </p>
