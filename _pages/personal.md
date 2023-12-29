@@ -13,7 +13,7 @@ author_profile: true
 
 - During holidays, I love to watch movies and anime. Movies have been my steadfast companions since I was a child; I've watched over 1,000 of them.
 
-- My 2023 reading [notes](https://zoeyzheng0808.notion.site/826e60274e994e8c92422d77d65a98a7?v=bbfec64e9a574ff88fb67a853552b4f0).
+- I enjoy documenting every detail of my life, and Notion is an essential tool that helps me do this. Here's one example: My 2023 Reading [Notes](https://zoeyzheng0808.notion.site/826e60274e994e8c92422d77d65a98a7?v=bbfec64e9a574ff88fb67a853552b4f0).
 
 - My favorite films are: 
     - The Fight Club
