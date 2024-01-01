@@ -18,8 +18,7 @@ My research interests lie in computer vision and deep learning, especially inclu
 
 Specifically, my current research focuses include:
 - __Explainable Artificial Intelligence__: Transparent and effective human-in-the-loop learning,
-- __Multi-modal Perception__: Exploring the synergistic effects of diverse data for enhanced machine understanding,
-- __3D Vision__: Representing and reconstructing 3-D dynamic human shape and pose.
+- __Multi-modal Perception__: Exploring the synergistic effects of diverse data for enhanced machine understanding.
 
 ## Research Experience
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60" >
