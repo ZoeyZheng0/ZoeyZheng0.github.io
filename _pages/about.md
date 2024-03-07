@@ -36,7 +36,7 @@ Advisor: Prof. [Laurent Itti](http://ilab.usc.edu/itti/)
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/sensetime.png" width="60">
 
 Research Center, [SenseTime](https://www.sensetime.com/en), China <br/>
-Algorithm Development Engineer. Sep. 2019 – Aug. 2021 <br/>
+Research Engineer. Sep. 2019 – Aug. 2021 <br/>
 Advisor: Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en)
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/siat-logo.png" width="60">
