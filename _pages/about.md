@@ -50,6 +50,13 @@ Research Assistant. Jul. 2018 – Jun. 2019 <br/>
 Research Intern. Dec. 2017 – Jun. 2018 <br/>
 
 ## Publications
+- **GaitSTR: Gait Recognition with Sequential Two-stream Refinement**  
+__Wanrong Zheng__\*, Haidong Zhu\*, Zhaoheng Zheng, and Ram Nevatia
+IEEE Transactions on Biometrics, Behavior, and Identity Science (__TBIOM__), 2024 [\[Paper\]](https://arxiv.org/abs/2404.02345)
+<p align="center">
+<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/gaitstr.png" width="500">
+</p>
+
 - **ShARc: Shape and Appearance Recognition for Person Identification In-the-wild**  
 Haidong Zhu, __Wanrong Zheng__, Zhaoheng Zheng, and Ram Nevatia
 IEEE/CVF Winter Conference on Applications of Computer Vision (__WACV__), 2024 [\[Paper\]](https://arxiv.org/abs/2310.15946) [\[Poster\]](https://zoeyzheng0.github.io/files/ShARc/wacv24-1207.pdf) [\[Slides\]](https://zoeyzheng0.github.io/files/ShARc/ShARc.pdf)
@@ -58,7 +65,7 @@ IEEE/CVF Winter Conference on Applications of Computer Vision (__WACV__), 2024 [
 </p>
 
 - **GaitRef: Gait Recognition with Refined Sequential Skeletons**  
-__Wanrong Zheng__\*, Haidong Zhu\*, Zhaoheng Zheng, and Ram Nevatia
+Haidong Zhu\*, __Wanrong Zheng__\*, Zhaoheng Zheng, and Ram Nevatia
 IEEE International Joint Conference on Biometrics (__IJCB__), 2023 <span style="color:red">__Oral__</span> [\[Paper\]](https://arxiv.org/abs/2304.07916) [\[Code\]](https://github.com/haidongz-usc/GaitRef) [\[Project\]](https://zoeyzheng0.github.io/GaitRef/) [\[Poster\]](https://zoeyzheng0.github.io/files/GaitRef/IJCB.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/GaitRef/pre.pdf)
 <p align="center">
 <img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/gaitref.png" width="500">
