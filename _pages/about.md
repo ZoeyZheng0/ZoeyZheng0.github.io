@@ -32,7 +32,7 @@ IEEE Transactions on Biometrics, Behavior, and Identity Science (__TBIOM__), 202
 Haidong Zhu, __Wanrong Zheng__, Zhaoheng Zheng, and Ram Nevatia  
 IEEE/CVF Winter Conference on Applications of Computer Vision (__WACV__), 2024 [\[Paper\]](https://arxiv.org/abs/2310.15946) [\[Poster\]](https://zoeyzheng0.github.io/files/ShARc/wacv24-1207.pdf) [\[Slides\]](https://zoeyzheng0.github.io/files/ShARc/ShARc.pdf)
 <p align="center">
-<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/sharc.png" width="500">
+<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/sharc.png" width="600">
 </p>
 
 - **GaitRef: Gait Recognition with Refined Sequential Skeletons**  
@@ -46,7 +46,7 @@ IEEE International Joint Conference on Biometrics (__IJCB__), 2023 <span style="
 Haidong Zhu, Zhaoheng Zheng, __Wanrong Zheng__, and Ram Nevatia  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (__CVPRW__), 2023 [\[Paper\]](https://arxiv.org/abs/2304.07915) [\[Code\]](https://github.com/haidongz-usc/CAT-NeRF) [\[Supp\]](https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4) 
 <p align="center">
-<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4" width="500">
+<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/zju_mocap.gif" width="500">
 </p>
 
 - **SSN3D: Self-Separated Network to Align Parts for 3D Convolution in Video Person Re-Identification**  
