@@ -59,7 +59,6 @@ Proceedings of the AAAI Conference on Artificial Intelligence (__AAAI__), 2021 [
 ## Research Experience
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60">
-
 [iLab](http://ilab.usc.edu/), USC, Los Angeles, CA <br/>
 Research Assistant. Jan. 2022 – Present <br/>
 Advisor: Prof. [Laurent Itti](http://ilab.usc.edu/itti/)
