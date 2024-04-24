@@ -46,7 +46,7 @@ IEEE International Joint Conference on Biometrics (__IJCB__), 2023 <span style="
 Haidong Zhu, Zhaoheng Zheng, __Wanrong Zheng__, and Ram Nevatia  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (__CVPRW__), 2023 [\[Paper\]](https://arxiv.org/abs/2304.07915) [\[Code\]](https://github.com/haidongz-usc/CAT-NeRF) [\[Supp\]](https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4) 
 <p align="center">
-<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/CAT-Nerf.gif" width="500">
+<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4" width="500">
 </p>
 
 - **SSN3D: Self-Separated Network to Align Parts for 3D Convolution in Video Person Re-Identification**  
