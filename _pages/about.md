@@ -25,14 +25,14 @@ Specifically, my current research focuses include:
 __Wanrong Zheng__\*, Haidong Zhu\*, Zhaoheng Zheng, and Ram Nevatia  
 IEEE Transactions on Biometrics, Behavior, and Identity Science (__TBIOM__), 2024 [\[Paper\]](https://arxiv.org/abs/2404.02345)
 <p align="center">
-<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/gaitstr.png" width="500">
+<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/gaitstr.png" width="600">
 </p>
 
 - **ShARc: Shape and Appearance Recognition for Person Identification In-the-wild**  
 Haidong Zhu, __Wanrong Zheng__, Zhaoheng Zheng, and Ram Nevatia  
 IEEE/CVF Winter Conference on Applications of Computer Vision (__WACV__), 2024 [\[Paper\]](https://arxiv.org/abs/2310.15946) [\[Poster\]](https://zoeyzheng0.github.io/files/ShARc/wacv24-1207.pdf) [\[Slides\]](https://zoeyzheng0.github.io/files/ShARc/ShARc.pdf)
 <p align="center">
-<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/sharc.png" width="600">
+<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/sharc.png" width="500">
 </p>
 
 - **GaitRef: Gait Recognition with Refined Sequential Skeletons**  
