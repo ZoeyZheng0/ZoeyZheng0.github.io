@@ -57,6 +57,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence (__AAAI__), 2021 [
 </p>
 
 ## Research Experience
+
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60">
 
 [iLab](http://ilab.usc.edu/), USC, Los Angeles, CA <br/>
