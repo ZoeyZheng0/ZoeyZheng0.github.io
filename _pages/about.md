@@ -57,17 +57,17 @@ Proceedings of the AAAI Conference on Artificial Intelligence (__AAAI__), 2021 [
 </p>
 
 ## Research Experience
-<img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60" >
-
-[IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/), USC, Los Angeles, CA <br/>
-Research Assistant. Jan. 2022 – May. 2024 <br/>
-Advisor: Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)
-
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60">
 
 [iLab](http://ilab.usc.edu/), USC, Los Angeles, CA <br/>
 Research Assistant. Jan. 2022 – Present <br/>
 Advisor: Prof. [Laurent Itti](http://ilab.usc.edu/itti/)
+
+<img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60" >
+
+[IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/), USC, Los Angeles, CA <br/>
+Research Assistant. Jan. 2022 – May. 2024 <br/>
+Advisor: Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/sensetime.png" width="60">
 
