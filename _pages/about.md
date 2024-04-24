@@ -20,11 +20,47 @@ Specifically, my current research focuses include:
 - __Explainable Artificial Intelligence__: Transparent and effective human-in-the-loop learning,
 - __Multi-modal Perception__: Exploring the synergistic effects of diverse data for enhanced machine understanding.
 
+## Publications
+- **GaitSTR: Gait Recognition with Sequential Two-stream Refinement**  
+__Wanrong Zheng__\*, Haidong Zhu\*, Zhaoheng Zheng, and Ram Nevatia  
+IEEE Transactions on Biometrics, Behavior, and Identity Science (__TBIOM__), 2024 [\[Paper\]](https://arxiv.org/abs/2404.02345)
+<p align="center">
+<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/gaitstr.png" width="500">
+</p>
+
+- **ShARc: Shape and Appearance Recognition for Person Identification In-the-wild**  
+Haidong Zhu, __Wanrong Zheng__, Zhaoheng Zheng, and Ram Nevatia  
+IEEE/CVF Winter Conference on Applications of Computer Vision (__WACV__), 2024 [\[Paper\]](https://arxiv.org/abs/2310.15946) [\[Poster\]](https://zoeyzheng0.github.io/files/ShARc/wacv24-1207.pdf) [\[Slides\]](https://zoeyzheng0.github.io/files/ShARc/ShARc.pdf)
+<p align="center">
+<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/sharc.png" width="500">
+</p>
+
+- **GaitRef: Gait Recognition with Refined Sequential Skeletons**  
+Haidong Zhu\*, __Wanrong Zheng__\*, Zhaoheng Zheng, and Ram Nevatia  
+IEEE International Joint Conference on Biometrics (__IJCB__), 2023 <span style="color:red">__Oral__</span> [\[Paper\]](https://arxiv.org/abs/2304.07916) [\[Code\]](https://github.com/haidongz-usc/GaitRef) [\[Project\]](https://zoeyzheng0.github.io/GaitRef/) [\[Poster\]](https://zoeyzheng0.github.io/files/GaitRef/IJCB.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/GaitRef/pre.pdf)
+<p align="center">
+<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/gaitref.png" width="500">
+</p>
+
+- **CAT-NeRF: Constancy-Aware Tx2Former for Dynamic Body Modeling**  
+Haidong Zhu, Zhaoheng Zheng, __Wanrong Zheng__, and Ram Nevatia  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (__CVPRW__), 2023 [\[Paper\]](https://arxiv.org/abs/2304.07915) [\[Code\]](https://github.com/haidongz-usc/CAT-NeRF) [\[Supp\]](https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4) 
+<p align="center">
+<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/CAT-Nerf.gif" width="500">
+</p>
+
+- **SSN3D: Self-Separated Network to Align Parts for 3D Convolution in Video Person Re-Identification**  
+Xiaoke Jiang, Yu Qiao, Junjie Yan, Qichen Li, __Wanrong Zheng__, and Dapeng Chen  
+Proceedings of the AAAI Conference on Artificial Intelligence (__AAAI__), 2021 [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16262) [\[Supp\]](https://ZoeyZheng0.github.io/files/SSN3D/appendix.pdf) [\[Poster\]](https://ZoeyZheng0.github.io/files/SSN3D/poster.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/SSN3D/reid-3d.pdf)
+<p align="center">
+<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/SSN3D.png" width="500">
+</p>
+
 ## Research Experience
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60" >
 
 [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/), USC, Los Angeles, CA <br/>
-Research Assistant. Jan. 2022 – Present <br/>
+Research Assistant. Jan. 2022 – May. 2024 <br/>
 Advisor: Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60">
@@ -48,42 +84,6 @@ Research Assistant. Jul. 2018 – Jun. 2019 <br/>
 
 [Shenzhen Research Institute](https://www.cuhkri.org.cn/en.html), the Chinese University of Hong Kong, China <br/>
 Research Intern. Dec. 2017 – Jun. 2018 <br/>
-
-## Publications
-- **GaitSTR: Gait Recognition with Sequential Two-stream Refinement**  
-__Wanrong Zheng__\*, Haidong Zhu\*, Zhaoheng Zheng, and Ram Nevatia
-IEEE Transactions on Biometrics, Behavior, and Identity Science (__TBIOM__), 2024 [\[Paper\]](https://arxiv.org/abs/2404.02345)
-<p align="center">
-<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/gaitstr.png" width="500">
-</p>
-
-- **ShARc: Shape and Appearance Recognition for Person Identification In-the-wild**  
-Haidong Zhu, __Wanrong Zheng__, Zhaoheng Zheng, and Ram Nevatia
-IEEE/CVF Winter Conference on Applications of Computer Vision (__WACV__), 2024 [\[Paper\]](https://arxiv.org/abs/2310.15946) [\[Poster\]](https://zoeyzheng0.github.io/files/ShARc/wacv24-1207.pdf) [\[Slides\]](https://zoeyzheng0.github.io/files/ShARc/ShARc.pdf)
-<p align="center">
-<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/sharc.png" width="500">
-</p>
-
-- **GaitRef: Gait Recognition with Refined Sequential Skeletons**  
-Haidong Zhu\*, __Wanrong Zheng__\*, Zhaoheng Zheng, and Ram Nevatia
-IEEE International Joint Conference on Biometrics (__IJCB__), 2023 <span style="color:red">__Oral__</span> [\[Paper\]](https://arxiv.org/abs/2304.07916) [\[Code\]](https://github.com/haidongz-usc/GaitRef) [\[Project\]](https://zoeyzheng0.github.io/GaitRef/) [\[Poster\]](https://zoeyzheng0.github.io/files/GaitRef/IJCB.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/GaitRef/pre.pdf)
-<p align="center">
-<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/gaitref.png" width="500">
-</p>
-
-- **CAT-NeRF: Constancy-Aware Tx2Former for Dynamic Body Modeling**  
-Haidong Zhu, Zhaoheng Zheng, __Wanrong Zheng__, and Ram Nevatia
-IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (__CVPRW__), 2023 [\[Paper\]](https://arxiv.org/abs/2304.07915) [\[Code\]](https://github.com/haidongz-usc/CAT-NeRF) [\[Supp\]](https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4) 
-<p align="center">
-<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/CAT-Nerf.png" width="500">
-</p>
-
-- **SSN3D: Self-Separated Network to Align Parts for 3D Convolution in Video Person Re-Identification**  
-Xiaoke Jiang, Yu Qiao, Junjie Yan, Qichen Li, __Wanrong Zheng__, and Dapeng Chen  
-Proceedings of the AAAI Conference on Artificial Intelligence (__AAAI__), 2021 [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16262) [\[Supp\]](https://ZoeyZheng0.github.io/files/SSN3D/appendix.pdf) [\[Poster\]](https://ZoeyZheng0.github.io/files/SSN3D/poster.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/SSN3D/reid-3d.pdf)
-<p align="center">
-<img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/SSN3D.png" width="500">
-</p>
 
 ## Awards
 - Oct. 2021: __1st__ on [MS1M](https://arxiv.org/abs/1607.08221) dataset in __ICCV 2021__ [Masked Face Recognition Challenge]({https://arxiv.org/abs/2108.08191}) out of 136 teams.
