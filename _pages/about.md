@@ -86,8 +86,8 @@ Research Assistant. Jul. 2018 – Jun. 2019 <br/>
 Research Intern. Dec. 2017 – Jun. 2018 <br/>
 
 ## Awards
-- Oct. 2021: __1st__ on [MS1M](https://arxiv.org/abs/1607.08221) dataset in __ICCV 2021__ [Masked Face Recognition Challenge]({https://arxiv.org/abs/2108.08191}) out of 136 teams.
-- Oct. 2021: __2nd__ on [Glint360k](https://paperswithcode.com/dataset/glint360k) dataset in __ICCV 2021__ [Masked Face Recognition Challenge]({https://arxiv.org/abs/2108.08191}) out of 86 teams.
+- Oct. 2021: __1st__ on [MS1M](https://arxiv.org/abs/1607.08221) dataset in __ICCV 2021__ [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 136 teams.
+- Oct. 2021: __2nd__ on [Glint360k](https://paperswithcode.com/dataset/glint360k) dataset in __ICCV 2021__ [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 86 teams.
 <p align="center">
 <img style="float: center;" src="https://zoeyzheng0.github.io/images/iccv2021.jpeg" width="500">
 </p>
