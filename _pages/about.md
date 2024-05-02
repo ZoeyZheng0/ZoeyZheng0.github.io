@@ -14,7 +14,7 @@ I am currently in my 1st year of pursuing a Ph.D. in [Viterbi School of Engineer
 My research interests lie in computer vision and deep learning, especially include Data-centric and Human-centric AI. My long-term research goal is to build a data-driven AI system that: (1) recognizes and represents scenes effectively, (2) is adaptive to multi-modalities (vision, language, spatial information, etc.), (3) can be reconstructed, understood, and corrected by humans.
 
 Specifically, my current research focuses include:
-- __Multi-modal Perception__: Exploring the synergistic effects of diverse data for enhanced machine understanding, such as vision-language cross-domain knowledge in Large Multimodal Models (LMMs) and Large Language Models (LLMs);
+- __Multi-modal Perception__: Exploring the synergistic effects of diverse data for enhanced machine understanding, such as cross-domain knowledge in Large Multimodal Models (LMMs) and Large Language Models (LLMs);
 - __Explainable Artificial Intelligence__: Transparent and effective human-in-the-loop learning.
 
 ## Publications
