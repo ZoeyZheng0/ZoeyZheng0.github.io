@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,14 +10,13 @@ redirect_from:
 ## About me
 Hi there 👋 My name is __Wanrong (Zoey) Zheng__ [\[CV\]](https://ZoeyZheng0.github.io/files/ZoeyZheng_USC_CS.pdf). 
 
-I am a Computer Science MS Graduate from [USC Viterbi School of Engineering](https://viterbischool.usc.edu/), advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and Prof. [Laurent Itti](http://ilab.usc.edu/itti/).
-Before USC, I was working in [SenseTime](https://www.sensetime.com/en) as fulltime research engineer (2019-2021), advised by Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en).
+I am currently in my 1st year of pursuing a Ph.D. in [Viterbi School of Engineering](https://viterbischool.usc.edu/), University of Southern Califonia. I am fortunate to be advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). I also received a M.S. degree in Computer Science from USC, advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Before USC, I was working in [SenseTime](https://www.sensetime.com/en) as fulltime research engineer (2019-2021), advised by Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en).
 
 My research interests lie in computer vision and deep learning, especially include Data-centric and Human-centric AI. My long-term research goal is to build a data-driven AI system that: (1) recognizes and represents scenes effectively, (2) is adaptive to multi-modalities (vision, language, spatial information, etc.), (3) can be reconstructed, understood, and corrected by humans.
 
 Specifically, my current research focuses include:
-- __Explainable Artificial Intelligence__: Transparent and effective human-in-the-loop learning,
-- __Multi-modal Perception__: Exploring the synergistic effects of diverse data for enhanced machine understanding.
+- __Multi-modal Perception__: Exploring the synergistic effects of diverse data for enhanced machine understanding, such as vision-language cross-domain knowledge in Large Multimodal Models (LMMs) and Large Language Models (LLMs);
+- __Explainable Artificial Intelligence__: Transparent and effective human-in-the-loop learning.
 
 ## Publications
 - **GaitSTR: Gait Recognition with Sequential Two-stream Refinement**  
