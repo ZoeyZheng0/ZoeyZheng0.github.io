@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About me
 Hi there 👋 My name is __Wanrong (Zoey) Zheng__ [\[CV\]](https://ZoeyZheng0.github.io/files/ZoeyZheng_USC_CS.pdf). 
 
 I am currently in my 1st year of pursuing a Ph.D. in [Viterbi School of Engineering](https://viterbischool.usc.edu/), University of Southern Califonia. I am fortunate to be advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). I also received a M.S. degree in Computer Science from USC, advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Before USC, I was working in [SenseTime](https://www.sensetime.com/en) as fulltime research engineer (2019-2021), advised by Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en).
