@@ -20,7 +20,7 @@ Specifically, my current research focuses include:
 ## Publications
 - **GaitSTR: Gait Recognition with Sequential Two-stream Refinement**  
 __Wanrong Zheng__\*, Haidong Zhu\*, Zhaoheng Zheng, and Ram Nevatia  
-IEEE Transactions on Biometrics, Behavior, and Identity Science (__TBIOM__), 2024 [\[Paper\]](https://arxiv.org/abs/2404.02345)
+IEEE Transactions on Biometrics, Behavior, and Identity Science (__TBIOM__), 2024 [\[Paper\]](https://arxiv.org/abs/2404.02345) [\[Code\]](https://github.com/ZoeyZheng0/GaitSTR)
 <p align="center">
 <img style="float: center;" src="https://zoeyzheng0.github.io/images/paper/gaitstr.png" width="600">
 </p>
