@@ -75,6 +75,7 @@ Advisor: Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAA
 
 [Shenzhen Institue of advanced technology](https://english.siat.ac.cn/), Chinese Academy of Sciences, China <br/>
 Research Assistant. Jul. 2018 – Jun. 2019 <br/>
+Advisor: Dr. [Qiong Wang](https://dblp.org/pid/65/3144-1.html)
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/cuhkri.png" width="60">
 
