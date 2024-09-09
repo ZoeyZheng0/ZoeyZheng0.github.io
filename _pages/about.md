@@ -92,11 +92,11 @@ Research Intern. Dec. 2017 – Jun. 2018 <br/>
 - Nov. 2017: National Endeavor Scholarship (top __1%__ Undergraduate Students of China).
 
 ## Patents
-- **A Railway Face Recognition Solution Based on History Passengers' Riding Pattern.**  
-__Wanrong Zheng__, Xiaoke Jiang, Jikui Bao, Qichen Li and Cong Ji. CN202110654499.8 (2021)
-
 - **A Identification method Based on History Passenger Flow Big Data.**  
-__Wanrong Zheng__ and Xiaoke Jiang. CN202011132611.3 (2020)
+__Wanrong Zheng__ and Xiaoke Jiang. CN113269129A (2021)
 
 - **Passenger Illegal Handing Bags Across Railing Detection in Real Railway Scene.**  
-Sun Zhe and __Wanrong Zheng__. (2020)
+Sun Zhe and __Wanrong Zheng__, Xiaoke Jiang, Xinghua Yao, and Cong Ji. CN112818844A (2021)
+
+- **A Railway Face Recognition Solution Based on History Passengers' Riding Pattern.**  
+__Wanrong Zheng__, Xiaoke Jiang, Jikui Bao, Qichen Li and Cong Ji. CN112232424A (2020)
