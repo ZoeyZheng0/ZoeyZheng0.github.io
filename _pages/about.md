@@ -15,7 +15,7 @@ My research interests lie in computer vision and deep learning, especially inclu
 
 Specifically, my current research focuses include:
 - __Multi-modal Perception__: Exploring the synergistic effects of diverse data for enhanced machine understanding, such as applications in Large Multimodal Models (LMMs) and Large Language Models (LLMs);
-- __Explainable Artificial Intelligence__: Transparent and effective human-in-the-loop learning.
+- __Model Reasoning and Explainable Artificial Intelligence__: Multimodal reasoning to enhance model capability and interpretability.
 
 ## Publications
 - **GaitSTR: Gait Recognition with Sequential Two-stream Refinement**  
