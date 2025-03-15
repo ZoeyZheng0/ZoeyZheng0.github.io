@@ -89,7 +89,7 @@ Research Intern. Dec. 2017 – Jun. 2018 <br/>
 <img style="float: center;" src="https://zoeyzheng0.github.io/images/iccv2021.jpeg" width="500">
 </p>
 
-- Nov. 2017: National Endeavor Scholarship (top __1%__ Undergraduate Students of China).
+<!-- - Nov. 2017: National Endeavor Scholarship (top __1%__ Undergraduate Students of China). -->
 
 ## Patents
 - **A Identification method Based on History Passenger Flow Big Data.**  
