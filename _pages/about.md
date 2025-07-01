@@ -11,10 +11,8 @@ Hi there 👋 My name is Wanrong (Zoey) Zheng [\[CV\]](https://ZoeyZheng0.github
 
 A CS Ph.D. student in Computer Science at the University of Southern Califonia, advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Previously, I have the privilege of working with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). I also spent my time working in [SenseTime](https://www.sensetime.com/en) as a fulltime research engineer (2019-2021).
 
-My research interests lie in computer vision and deep learning, especially include Data-centric and Human-centric AI. In the long term, I aim to to build a data-driven AI system that:
-1. recognizes and represents scenes effectively
-2. is adaptive to multi-modalities (vision, language, spatial information, etc.)
-3. can be reconstructed, understood, and corrected by humans
+My research interests lie in computer vision and deep learning, especially include Data-centric and Human-centric AI. In the long term, I aim to to build a data-driven AI system that: <br>
+1. recognizes and represents scenes effectively, 2. is adaptive to multi-modalities (vision, language, spatial information, etc.), 3. can be reconstructed, understood, and corrected by humans
 
 ## Publications
 GaitSTR: Gait Recognition with Sequential Two-stream Refinement<br>
