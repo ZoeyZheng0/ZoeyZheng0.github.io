@@ -35,8 +35,8 @@ Xiaoke Jiang, Yu Qiao, Junjie Yan, Qichen Li, __Wanrong Zheng__, and Dapeng Chen
 _AAAI 2021_ [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16262) [\[Supp\]](https://ZoeyZheng0.github.io/files/SSN3D/appendix.pdf) [\[Poster\]](https://ZoeyZheng0.github.io/files/SSN3D/poster.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/SSN3D/reid-3d.pdf)
 
 ## Awards
-1st on [MS1M](https://arxiv.org/abs/1607.08221) dataset in ICCV 2021 [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 136 teams. <br>
-2nd on [Glint360k](https://paperswithcode.com/dataset/glint360k) dataset in ICCV 2021 [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 86 teams.
+1st on [MS1M](https://arxiv.org/abs/1607.08221) dataset in _ICCV 2021_ [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 136 teams. <br>
+2nd on [Glint360k](https://paperswithcode.com/dataset/glint360k) dataset in _ICCV 2021_ [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 86 teams.
 
 ## Research Experience
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60">
