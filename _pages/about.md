@@ -12,9 +12,9 @@ Hi there 👋 My name is Wanrong (Zoey) Zheng [\[CV\]](https://ZoeyZheng0.github
 A CS Ph.D. student in Computer Science at the University of Southern Califonia, advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Previously, I have the privilege of working with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). I also spent my time working in [SenseTime](https://www.sensetime.com/en) as a fulltime research engineer (2019-2021).
 
 My research interests lie in computer vision and deep learning, especially include Data-centric and Human-centric AI. My long-term research goal is to build a data-driven AI system that: <br>
-(1) recognizes and represents scenes effectively, <br>
-(2) is adaptive to multi-modalities (vision, language, spatial information, etc.), <br>
-(3) can be reconstructed, understood, and corrected by humans.
+1. recognizes and represents scenes effectively, <br>
+2. is adaptive to multi-modalities (vision, language, spatial information, etc.), <br>
+3. can be reconstructed, understood, and corrected by humans.
 
 ## Publications
 GaitSTR: Gait Recognition with Sequential Two-stream Refinement<br>
@@ -67,5 +67,5 @@ Advisor: Dr. [Qiong Wang](https://dblp.org/pid/65/3144-1.html)
 Research Intern. Dec. 2017 – Jun. 2018 <br/>
 
 ## Awards
-1st on [MS1M](https://arxiv.org/abs/1607.08221) dataset in ICCV 2021 [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 136 teams.
+1st on [MS1M](https://arxiv.org/abs/1607.08221) dataset in ICCV 2021 [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 136 teams. <br>
 2nd on [Glint360k](https://paperswithcode.com/dataset/glint360k) dataset in ICCV 2021 [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 86 teams.
