@@ -28,7 +28,7 @@ _IJCB 2023 <span style="color:red">Oral</span>_ [\[Paper\]](https://arxiv.org/ab
 
 CAT-NeRF: Constancy-Aware Tx2Former for Dynamic Body Modeling<br>
 Haidong Zhu, Zhaoheng Zheng, __Wanrong Zheng__, and Ram Nevatia  
-_CVPRW 2023_ [\[Paper\]](https://arxiv.org/abs/2304.07915) [\[Code\]](https://github.com/haidongz-usc/CAT-NeRF) [\[Supp\]](https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4) 
+_CVPR Workshop 2023_ [\[Paper\]](https://arxiv.org/abs/2304.07915) [\[Code\]](https://github.com/haidongz-usc/CAT-NeRF) [\[Supp\]](https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4) 
 
 SSN3D: Self-Separated Network to Align Parts for 3D Convolution in Video Person Re-Identification<br> 
 Xiaoke Jiang, Yu Qiao, Junjie Yan, Qichen Li, __Wanrong Zheng__, and Dapeng Chen  
