@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi there 👋 My name is __Wanrong (Zoey) Zheng__ [\[CV\]](https://ZoeyZheng0.github.io/files/ZoeyZheng_USC_CS.pdf). 
 
-I am a Ph.D. student in Computer Science at the University of Southern Califonia, advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Previously, I have the privilege of working with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). Before USC, I was working in [SenseTime](https://www.sensetime.com/en) as fulltime research engineer (2019-2021), advised by Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en).
+I am a CS Ph.D. student in Computer Science at the University of Southern Califonia, advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Previously, I have the privilege of working with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). I also spent my time working in [SenseTime](https://www.sensetime.com/en) as fulltime research engineer (2019-2021).
 
 My research interests lie in computer vision and deep learning, especially include Data-centric and Human-centric AI. My long-term research goal is to build a data-driven AI system that: (1) recognizes and represents scenes effectively, (2) is adaptive to multi-modalities (vision, language, spatial information, etc.), (3) can be reconstructed, understood, and corrected by humans.
 
@@ -79,5 +79,5 @@ Advisor: Dr. [Qiong Wang](https://dblp.org/pid/65/3144-1.html)
 Research Intern. Dec. 2017 – Jun. 2018 <br/>
 
 ## Awards
-- Oct. 2021: 1st on [MS1M](https://arxiv.org/abs/1607.08221) dataset in ICCV 2021 [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 136 teams.
-- Oct. 2021: 2nd on [Glint360k](https://paperswithcode.com/dataset/glint360k) dataset in ICCV 2021 [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 86 teams.
+- 1st on [MS1M](https://arxiv.org/abs/1607.08221) dataset in ICCV 2021 [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 136 teams.
+- 2nd on [Glint360k](https://paperswithcode.com/dataset/glint360k) dataset in ICCV 2021 [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 86 teams.
