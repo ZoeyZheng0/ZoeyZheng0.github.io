@@ -20,7 +20,7 @@ _TBIOM 2024_ [\[Paper\]](https://arxiv.org/abs/2404.02345)[\[Code\]](https://git
 
 ShARc: Shape and Appearance Recognition for Person Identification In-the-wild<br>
 Haidong Zhu, __Wanrong Zheng__, Zhaoheng Zheng, and Ram Nevatia  
-_WACV 2024_ [\[Paper\]](https://arxiv.org/abs/2310.15946)[\[Poster\]](https://zoeyzheng0.github.io/files/ShARc/wacv24-1207.pdf)[\[Slides\]](https://zoeyzheng0.github.io/files/ShARc/ShARc.pdf)
+_WACV 2024_ [\[Paper\]](https://arxiv.org/abs/2310.15946)[\[Slides\]](https://zoeyzheng0.github.io/files/ShARc/ShARc.pdf)
 
 GaitRef: Gait Recognition with Refined Sequential Skeletons<br>
 Haidong Zhu\*, __Wanrong Zheng__\*, Zhaoheng Zheng, and Ram Nevatia  
