@@ -51,17 +51,17 @@ Advisor: Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-neva
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/sensetime.png" width="60">
 
-Research Center, [SenseTime](https://www.sensetime.com/en), China <br/>
+[SenseTime](https://www.sensetime.com/en), China <br/>
 Research Engineer. Sep. 2019 – Aug. 2021 <br/>
 Advisor: Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en)
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/siat-logo.png" width="60">
 
-[Shenzhen Institue of advanced technology](https://english.siat.ac.cn/), Chinese Academy of Sciences, China <br/>
+[Chinese Academy of Sciences](https://english.cas.cn/), China <br/>
 Research Assistant. Jul. 2018 – Jun. 2019 <br/>
 Advisor: Dr. [Qiong Wang](https://dblp.org/pid/65/3144-1.html)
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/cuhkri.png" width="60">
 
-[Shenzhen Research Institute](https://www.cuhkri.org.cn/en.html), the Chinese University of Hong Kong, China <br/>
+the Chinese University of Hong Kong, China <br/>
 Research Intern. Dec. 2017 – Jun. 2018 <br/>
