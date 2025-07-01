@@ -16,23 +16,23 @@ My research interests lie in computer vision and deep learning, especially inclu
 ## Publications
 GaitSTR: Gait Recognition with Sequential Two-stream Refinement<br>
 __Wanrong Zheng__\*, Haidong Zhu\*, Zhaoheng Zheng, and Ram Nevatia  
-_TBIOM 2024_ [\[Paper\]](https://arxiv.org/abs/2404.02345) [\[Code\]](https://github.com/ZoeyZheng0/GaitSTR)
+_TBIOM 2024_ [\[Paper\]](https://arxiv.org/abs/2404.02345)[\[Code\]](https://github.com/ZoeyZheng0/GaitSTR)
 
 ShARc: Shape and Appearance Recognition for Person Identification In-the-wild<br>
 Haidong Zhu, __Wanrong Zheng__, Zhaoheng Zheng, and Ram Nevatia  
-_WACV 2024_ [\[Paper\]](https://arxiv.org/abs/2310.15946) [\[Poster\]](https://zoeyzheng0.github.io/files/ShARc/wacv24-1207.pdf) [\[Slides\]](https://zoeyzheng0.github.io/files/ShARc/ShARc.pdf)
+_WACV 2024_ [\[Paper\]](https://arxiv.org/abs/2310.15946)[\[Poster\]](https://zoeyzheng0.github.io/files/ShARc/wacv24-1207.pdf)[\[Slides\]](https://zoeyzheng0.github.io/files/ShARc/ShARc.pdf)
 
 GaitRef: Gait Recognition with Refined Sequential Skeletons<br>
 Haidong Zhu\*, __Wanrong Zheng__\*, Zhaoheng Zheng, and Ram Nevatia  
-_IJCB 2023 <span style="color:red">Oral</span>_ [\[Paper\]](https://arxiv.org/abs/2304.07916) [\[Code\]](https://github.com/haidongz-usc/GaitRef) [\[Project\]](https://zoeyzheng0.github.io/GaitRef/) [\[Poster\]](https://zoeyzheng0.github.io/files/GaitRef/IJCB.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/GaitRef/pre.pdf)
+_IJCB 2023 <span style="color:red">Oral</span>_ [\[Paper\]](https://arxiv.org/abs/2304.07916)[\[Code\]](https://github.com/haidongz-usc/GaitRef)[\[Project\]](https://zoeyzheng0.github.io/GaitRef/)[\[Slides\]](https://ZoeyZheng0.github.io/files/GaitRef/pre.pdf)
 
 CAT-NeRF: Constancy-Aware Tx2Former for Dynamic Body Modeling<br>
 Haidong Zhu, Zhaoheng Zheng, __Wanrong Zheng__, and Ram Nevatia  
-_CVPR Workshop 2023_ [\[Paper\]](https://arxiv.org/abs/2304.07915) [\[Code\]](https://github.com/haidongz-usc/CAT-NeRF) [\[Supp\]](https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4) 
+_CVPR Workshop 2023_ [\[Paper\]](https://arxiv.org/abs/2304.07915)[\[Code\]](https://github.com/haidongz-usc/CAT-NeRF)[\[Supp\]](https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4) 
 
 SSN3D: Self-Separated Network to Align Parts for 3D Convolution in Video Person Re-Identification<br> 
 Xiaoke Jiang, Yu Qiao, Junjie Yan, Qichen Li, __Wanrong Zheng__, and Dapeng Chen  
-_AAAI 2021_ [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16262) [\[Supp\]](https://ZoeyZheng0.github.io/files/SSN3D/appendix.pdf) [\[Poster\]](https://ZoeyZheng0.github.io/files/SSN3D/poster.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/SSN3D/reid-3d.pdf)
+_AAAI 2021_ [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16262) [\[Supp\]](https://ZoeyZheng0.github.io/files/SSN3D/appendix.pdf)[\[Slides\]](https://ZoeyZheng0.github.io/files/SSN3D/reid-3d.pdf)
 
 ## Awards
 <span style="color:red">1st</span> on [MS1M](https://arxiv.org/abs/1607.08221) dataset in _ICCV 2021_ [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 136 teams. <br>
