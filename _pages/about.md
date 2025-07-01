@@ -14,25 +14,25 @@ I am a CS Ph.D. student in Computer Science at the University of Southern Califo
 My research interests lie in computer vision and deep learning, especially include Data-centric and Human-centric AI. My long-term research goal is to build a data-driven AI system that: (1) recognizes and represents scenes effectively, (2) is adaptive to multi-modalities (vision, language, spatial information, etc.), (3) can be reconstructed, understood, and corrected by humans.
 
 ## Publications
-- GaitSTR: Gait Recognition with Sequential Two-stream Refinement
+- GaitSTR: Gait Recognition with Sequential Two-stream Refinement<br>
 __Wanrong Zheng__\*, Haidong Zhu\*, Zhaoheng Zheng, and Ram Nevatia  
-IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2024 [\[Paper\]](https://arxiv.org/abs/2404.02345) [\[Code\]](https://github.com/ZoeyZheng0/GaitSTR)
+TBIOM 2024 [\[Paper\]](https://arxiv.org/abs/2404.02345) [\[Code\]](https://github.com/ZoeyZheng0/GaitSTR)
 
-- ShARc: Shape and Appearance Recognition for Person Identification In-the-wild
+- ShARc: Shape and Appearance Recognition for Person Identification In-the-wild<br>
 Haidong Zhu, __Wanrong Zheng__, Zhaoheng Zheng, and Ram Nevatia  
-IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024 [\[Paper\]](https://arxiv.org/abs/2310.15946) [\[Poster\]](https://zoeyzheng0.github.io/files/ShARc/wacv24-1207.pdf) [\[Slides\]](https://zoeyzheng0.github.io/files/ShARc/ShARc.pdf)
+WACV 2024 [\[Paper\]](https://arxiv.org/abs/2310.15946) [\[Poster\]](https://zoeyzheng0.github.io/files/ShARc/wacv24-1207.pdf) [\[Slides\]](https://zoeyzheng0.github.io/files/ShARc/ShARc.pdf)
 
-- GaitRef: Gait Recognition with Refined Sequential Skeletons  
+- GaitRef: Gait Recognition with Refined Sequential Skeletons<br>
 Haidong Zhu\*, __Wanrong Zheng__\*, Zhaoheng Zheng, and Ram Nevatia  
-IEEE International Joint Conference on Biometrics (IJCB), 2023 <span style="color:red">Oral</span> [\[Paper\]](https://arxiv.org/abs/2304.07916) [\[Code\]](https://github.com/haidongz-usc/GaitRef) [\[Project\]](https://zoeyzheng0.github.io/GaitRef/) [\[Poster\]](https://zoeyzheng0.github.io/files/GaitRef/IJCB.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/GaitRef/pre.pdf)
+IJCB 2023 <span style="color:red">Oral</span> [\[Paper\]](https://arxiv.org/abs/2304.07916) [\[Code\]](https://github.com/haidongz-usc/GaitRef) [\[Project\]](https://zoeyzheng0.github.io/GaitRef/) [\[Poster\]](https://zoeyzheng0.github.io/files/GaitRef/IJCB.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/GaitRef/pre.pdf)
 
-- CAT-NeRF: Constancy-Aware Tx2Former for Dynamic Body Modeling
+- CAT-NeRF: Constancy-Aware Tx2Former for Dynamic Body Modeling<br>
 Haidong Zhu, Zhaoheng Zheng, __Wanrong Zheng__, and Ram Nevatia  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023 [\[Paper\]](https://arxiv.org/abs/2304.07915) [\[Code\]](https://github.com/haidongz-usc/CAT-NeRF) [\[Supp\]](https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4) 
+CVPRW 2023 [\[Paper\]](https://arxiv.org/abs/2304.07915) [\[Code\]](https://github.com/haidongz-usc/CAT-NeRF) [\[Supp\]](https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4) 
 
-- SSN3D: Self-Separated Network to Align Parts for 3D Convolution in Video Person Re-Identification  
+- SSN3D: Self-Separated Network to Align Parts for 3D Convolution in Video Person Re-Identification<br> 
 Xiaoke Jiang, Yu Qiao, Junjie Yan, Qichen Li, __Wanrong Zheng__, and Dapeng Chen  
-Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2021 [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16262) [\[Supp\]](https://ZoeyZheng0.github.io/files/SSN3D/appendix.pdf) [\[Poster\]](https://ZoeyZheng0.github.io/files/SSN3D/poster.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/SSN3D/reid-3d.pdf)
+AAAI 2021 [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16262) [\[Supp\]](https://ZoeyZheng0.github.io/files/SSN3D/appendix.pdf) [\[Poster\]](https://ZoeyZheng0.github.io/files/SSN3D/poster.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/SSN3D/reid-3d.pdf)
 
 ## Research Experience
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60">
