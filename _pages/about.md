@@ -9,13 +9,9 @@ redirect_from:
 ---
 Hi there 👋 My name is __Wanrong (Zoey) Zheng__ [\[CV\]](https://ZoeyZheng0.github.io/files/ZoeyZheng_USC_CS.pdf). 
 
-I am a Ph.D. student in Computer Science at the University of Southern Califonia, advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Previously, I have the privilege of working at the USC [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/), advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). Before USC, I was working in [SenseTime](https://www.sensetime.com/en) as fulltime research engineer (2019-2021), advised by Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en).
+I am a Ph.D. student in Computer Science at the University of Southern Califonia, advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Previously, I have the privilege of working with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). Before USC, I was working in [SenseTime](https://www.sensetime.com/en) as fulltime research engineer (2019-2021), advised by Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en).
 
 My research interests lie in computer vision and deep learning, especially include Data-centric and Human-centric AI. My long-term research goal is to build a data-driven AI system that: (1) recognizes and represents scenes effectively, (2) is adaptive to multi-modalities (vision, language, spatial information, etc.), (3) can be reconstructed, understood, and corrected by humans.
-
-Specifically, my current research focuses include:
-- __Foundation Model Reasoning__: Multimodal reasoning to enhance model capability and interpretability.
-- __Multi-modal Perception__: Exploring the synergistic effects of diverse data for enhanced machine understanding, such as applications in Large Multimodal Models (LMMs) and Large Language Models (LLMs);
 
 ## Publications
 - **GaitSTR: Gait Recognition with Sequential Two-stream Refinement**  
@@ -83,20 +79,10 @@ Advisor: Dr. [Qiong Wang](https://dblp.org/pid/65/3144-1.html)
 Research Intern. Dec. 2017 – Jun. 2018 <br/>
 
 ## Awards
-- Oct. 2021: __1st__ on [MS1M](https://arxiv.org/abs/1607.08221) dataset in __ICCV 2021__ [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 136 teams.
-- Oct. 2021: __2nd__ on [Glint360k](https://paperswithcode.com/dataset/glint360k) dataset in __ICCV 2021__ [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 86 teams.
+- Oct. 2021: 1st on [MS1M](https://arxiv.org/abs/1607.08221) dataset in ICCV 2021 [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 136 teams.
+- Oct. 2021: 2nd on [Glint360k](https://paperswithcode.com/dataset/glint360k) dataset in ICCV 2021 [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 86 teams.
 <p align="center">
 <img style="float: center;" src="https://zoeyzheng0.github.io/images/iccv2021.jpeg" width="500">
 </p>
 
 <!-- - Nov. 2017: National Endeavor Scholarship (top __1%__ Undergraduate Students of China). -->
-
-## Patents
-- **A Identification method Based on History Passenger Flow Big Data.**  
-__Wanrong Zheng__, and Xiaoke Jiang. CN113269129A (2021)
-
-- **Passenger Illegal Handing Bags Across Railing Detection in Real Railway Scene.**  
-Sun Zhe, __Wanrong Zheng__, Xiaoke Jiang, Xinghua Yao, and Cong Ji. CN112818844A (2021)
-
-- **A Railway Face Recognition Solution Based on History Passengers' Riding Pattern.**  
-__Wanrong Zheng__, Xiaoke Jiang, Jikui Bao, Qichen Li, and Cong Ji. CN112232424A (2020)
