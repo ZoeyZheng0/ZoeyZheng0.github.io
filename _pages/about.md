@@ -24,7 +24,7 @@ _WACV 2024_ [\[Paper\]](https://arxiv.org/abs/2310.15946) [\[Poster\]](https://z
 
 - GaitRef: Gait Recognition with Refined Sequential Skeletons<br>
 Haidong Zhu\*, __Wanrong Zheng__\*, Zhaoheng Zheng, and Ram Nevatia  
-_IJCB 2023_ <span style="color:red">Oral</span> [\[Paper\]](https://arxiv.org/abs/2304.07916) [\[Code\]](https://github.com/haidongz-usc/GaitRef) [\[Project\]](https://zoeyzheng0.github.io/GaitRef/) [\[Poster\]](https://zoeyzheng0.github.io/files/GaitRef/IJCB.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/GaitRef/pre.pdf)
+_IJCB 2023 <span style="color:red">Oral</span>_ [\[Paper\]](https://arxiv.org/abs/2304.07916) [\[Code\]](https://github.com/haidongz-usc/GaitRef) [\[Project\]](https://zoeyzheng0.github.io/GaitRef/) [\[Poster\]](https://zoeyzheng0.github.io/files/GaitRef/IJCB.pdf) [\[Slides\]](https://ZoeyZheng0.github.io/files/GaitRef/pre.pdf)
 
 - CAT-NeRF: Constancy-Aware Tx2Former for Dynamic Body Modeling<br>
 Haidong Zhu, Zhaoheng Zheng, __Wanrong Zheng__, and Ram Nevatia  
