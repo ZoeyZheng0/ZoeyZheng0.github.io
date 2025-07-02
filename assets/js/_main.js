@@ -24,16 +24,13 @@ const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 
 
 // Set the theme on page load or when explicitly called
 let setTheme = (theme) => {
-  const use_theme =
-    theme ||
-    localStorage.getItem("theme") ||
-    $("html").attr("data-theme") ||
-    "light"; // Default to light theme instead of browserPref
+  // Force light theme unless explicitly set to dark
+  const use_theme = (theme === "dark" || localStorage.getItem("theme") === "dark") ? "dark" : "light";
 
   if (use_theme === "dark") {
     $("html").attr("data-theme", "dark");
     $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
-  } else if (use_theme === "light") {
+  } else {
     $("html").removeAttr("data-theme");
     $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
   }
@@ -89,6 +86,12 @@ $(document).ready(function () {
   // SCSS SETTINGS - These should be the same as the settings in the relevant files 
   const scssLarge = 925;          // pixels, from /_sass/_themes.scss
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
+
+  // Clear any existing dark theme settings and force light theme
+  if (localStorage.getItem("theme") === "dark") {
+    localStorage.removeItem("theme");
+  }
+  $("html").removeAttr("data-theme");
 
   // If the user hasn't chosen a theme, follow the OS preference
   setTheme();
