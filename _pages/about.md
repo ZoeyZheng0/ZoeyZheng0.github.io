@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there 👋 My name is Wanrong (Zoey) Zheng [\[CV\]](https://ZoeyZheng0.github.io/files/ZoeyZheng_USC_CS.pdf). 
-
-A CS Ph.D. student in Computer Science at the University of Southern Califonia, advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Previously, I have the privilege of working with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
+Hi there 👋 My name is Wanrong (Zoey) Zheng [\[CV\]](https://ZoeyZheng0.github.io/files/ZoeyZheng_USC_CS.pdf). A CS Ph.D. student in Computer Science at the University of Southern Califonia, advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Previously, I have the privilege of working with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
 
 My research interests lie in computer vision and deep learning, especially include Data-centric and Human-centric AI. In the long term, I aim to to build a data-driven AI system that: <br> 1. recognizes and represents scenes effectively, 2. is adaptive to multi-modalities (vision, language, spatial information, etc.), 3. can be reconstructed, understood, and corrected by humans
 
