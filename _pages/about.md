@@ -10,7 +10,7 @@ Hi there 👋 I am Zoey [\[CV\]](https://ZoeyZheng0.github.io/files/ZoeyZheng_US
 
 My research interests lie in computer vision and deep learning, especially include Data-centric and Human-centric AI. In the long term, I aim to to build a data-driven AI system that: <br> 1. recognizes and represents scenes effectively, 2. is adaptive to multi-modalities (vision, language, spatial information, etc.), 3. can be reconstructed, understood, and corrected by humans
 
-## Publications
+### Publications
 GaitSTR: Gait Recognition with Sequential Two-stream Refinement<br>
 __Wanrong Zheng__\*, Haidong Zhu\*, Zhaoheng Zheng, and Ram Nevatia  
 _TBIOM 2024_ [\[Paper\]](https://arxiv.org/abs/2404.02345)[\[Code\]](https://github.com/ZoeyZheng0/GaitSTR)
@@ -31,11 +31,11 @@ SSN3D: Self-Separated Network to Align Parts for 3D Convolution in Video Person 
 Xiaoke Jiang, Yu Qiao, Junjie Yan, Qichen Li, __Wanrong Zheng__, and Dapeng Chen  
 _AAAI 2021_ [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16262) [\[Supp\]](https://ZoeyZheng0.github.io/files/SSN3D/appendix.pdf)[\[Slides\]](https://ZoeyZheng0.github.io/files/SSN3D/reid-3d.pdf)
 
-## Awards
+### Awards
 <span style="color:red">1st</span> on [MS1M](https://arxiv.org/abs/1607.08221) dataset in _ICCV 2021_ [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 136 teams. <br>
 <span style="color:red">2nd</span> on [Glint360k](https://paperswithcode.com/dataset/glint360k) dataset in _ICCV 2021_ [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 86 teams.
 
-## Research Experience
+### Research Experience
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60">
 [iLab](http://ilab.usc.edu/), USC, Los Angeles, CA <br/>
 Research Assistant. Jan. 2022 – Present <br/>
