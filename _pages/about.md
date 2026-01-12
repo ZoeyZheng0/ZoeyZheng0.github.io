@@ -29,7 +29,7 @@ _CVPR Workshop 2023_ [\[Paper\]](https://arxiv.org/abs/2304.07915)[\[Code\]](htt
 
 SSN3D: Self-Separated Network to Align Parts for 3D Convolution in Video Person Re-Identification<br> 
 Xiaoke Jiang, Yu Qiao, Junjie Yan, Qichen Li, __Wanrong Zheng__, and Dapeng Chen  
-_AAAI 2021_ [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16262) [\[Supp\]](https://ZoeyZheng0.github.io/files/SSN3D/appendix.pdf)[\[Slides\]](https://ZoeyZheng0.github.io/files/SSN3D/reid-3d.pdf)
+_AAAI 2021_ [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16262)[\[Supp\]](https://ZoeyZheng0.github.io/files/SSN3D/appendix.pdf)[\[Slides\]](https://ZoeyZheng0.github.io/files/SSN3D/reid-3d.pdf)
 
 ## Awards
 <span style="color:red">1st</span> on [MS1M](https://arxiv.org/abs/1607.08221) dataset in _ICCV 2021_ [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 136 teams. <br>
