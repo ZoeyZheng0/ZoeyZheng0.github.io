@@ -12,7 +12,7 @@ My research interests lie in computer vision and deep learning, especially in Da
 
 ## Publications
 A Graphical Framework for Knowledge Exchange between Humans and Neural Networks<br>
-__Wanrong Zheng__\*, Yunhao Ge\*, Xingrui Wang, Di Wu, Yao Xiao, Xu Zhi, Linwei Li, Ziyan Wu, and Laurent Itti
+__Wanrong Zheng__\*, Yunhao Ge\*, Xingrui Wang, Di Wu, Yao Xiao, Xu Zhi, Linwei Li, Ziyan Wu, and Laurent Itti<br>
 _Under Review_ [\[Paper\]](https://zoeyzheng0.github.io/files/HNI/HNI.pdf)
 
 GaitSTR: Gait Recognition with Sequential Two-stream Refinement<br>
