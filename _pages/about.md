@@ -12,27 +12,27 @@ My research interests lie in computer vision and deep learning, especially in Da
 
 ## Publications
 A Graphical Framework for Knowledge Exchange between Humans and Neural Networks<br>
-__Wanrong Zheng__\*, Yunhao Ge\*, Xingrui Wang, Di Wu, Yao Xiao, Xu Zhi, Linwei Li, Ziyan Wu, and Laurent Itti<br>
+__Wanrong Zheng__\*, Yunhao Ge\*, Xingrui Wang, Di Wu, Yao Xiao, Xu Zhi, Linwei Li, Ziyan Wu, Laurent Itti<br>
 _Under Review_ [\[Paper\]](https://zoeyzheng0.github.io/files/HNI/HNI.pdf)
 
 GaitSTR: Gait Recognition with Sequential Two-stream Refinement<br>
-__Wanrong Zheng__\*, Haidong Zhu\*, Zhaoheng Zheng, and Ram Nevatia  
+__Wanrong Zheng__\*, Haidong Zhu\*, Zhaoheng Zheng, Ram Nevatia  
 _TBIOM 2024_ [\[Paper\]](https://arxiv.org/abs/2404.02345)[\[Code\]](https://github.com/ZoeyZheng0/GaitSTR)
 
 ShARc: Shape and Appearance Recognition for Person Identification In-the-wild<br>
-Haidong Zhu, __Wanrong Zheng__, Zhaoheng Zheng, and Ram Nevatia  
+Haidong Zhu, __Wanrong Zheng__, Zhaoheng Zheng, Ram Nevatia  
 _WACV 2024_ [\[Paper\]](https://arxiv.org/abs/2310.15946)[\[Slides\]](https://zoeyzheng0.github.io/files/ShARc/ShARc.pdf)
 
 GaitRef: Gait Recognition with Refined Sequential Skeletons<br>
-Haidong Zhu\*, __Wanrong Zheng__\*, Zhaoheng Zheng, and Ram Nevatia  
+Haidong Zhu\*, __Wanrong Zheng__\*, Zhaoheng Zheng, Ram Nevatia  
 _IJCB 2023 <span style="color:red">Oral</span>_ [\[Paper\]](https://arxiv.org/abs/2304.07916)[\[Code\]](https://github.com/haidongz-usc/GaitRef)[\[Slides\]](https://ZoeyZheng0.github.io/files/GaitRef/pre.pdf)
 
 CAT-NeRF: Constancy-Aware Tx2Former for Dynamic Body Modeling<br>
-Haidong Zhu, Zhaoheng Zheng, __Wanrong Zheng__, and Ram Nevatia  
+Haidong Zhu, Zhaoheng Zheng, __Wanrong Zheng__, Ram Nevatia  
 _CVPR Workshop 2023_ [\[Paper\]](https://arxiv.org/abs/2304.07915)[\[Code\]](https://github.com/haidongz-usc/CAT-NeRF)[\[Supp\]](https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4) 
 
 SSN3D: Self-Separated Network to Align Parts for 3D Convolution in Video Person Re-Identification<br> 
-Xiaoke Jiang, Yu Qiao, Junjie Yan, Qichen Li, __Wanrong Zheng__, and Dapeng Chen  
+Xiaoke Jiang, Yu Qiao, Junjie Yan, Qichen Li, __Wanrong Zheng__, Dapeng Chen  
 _AAAI 2021_ [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16262)[\[Supp\]](https://ZoeyZheng0.github.io/files/SSN3D/appendix.pdf)[\[Slides\]](https://ZoeyZheng0.github.io/files/SSN3D/reid-3d.pdf)
 
 ## Awards
