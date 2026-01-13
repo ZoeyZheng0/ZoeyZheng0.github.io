@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi there 👋 I am a CS Ph.D. student in Computer Science at the University of Southern Califonia, advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Previously, I have the privilege of working with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
 
-My research interests lie in computer vision and deep learning, especially in Data-centric and Human-centric AI. In the long term, I aim to to build a data-driven AI system that: <br> 1. recognizes and represents scenes effectively, 2. is adaptive to multi-modalities (vision, language, spatial information, etc.), 3. can be reconstructed, understood, and corrected by humans
+My research interests lie in computer vision and deep learning, especially in Data-centric and Human-centric AI. In the long term, I aim to to build a data-driven AI system that: <br> 1. recognizes and represents scenes effectively, <br> 2. is adaptive to multi-modalities (vision, language, spatial information, etc.), <br> 3. can be reconstructed, understood, and corrected by humans
 
 ## Publications
 A Graphical Framework for Knowledge Exchange between Humans and Neural Networks<br>
