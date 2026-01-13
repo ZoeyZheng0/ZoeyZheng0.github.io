@@ -11,6 +11,10 @@ Hi there 👋 I am a CS Ph.D. student in Computer Science at the University of S
 My research interests lie in computer vision and deep learning, especially in Data-centric and Human-centric AI. In the long term, I aim to to build a data-driven AI system that: <br> 1. recognizes and represents scenes effectively, 2. is adaptive to multi-modalities (vision, language, spatial information, etc.), 3. can be reconstructed, understood, and corrected by humans
 
 ## Publications
+A Graphical Framework for Knowledge Exchange between Humans and Neural Networks<br>
+__Wanrong Zheng__\*, Yunhao Ge\*, Xingrui Wang, Di Wu, Yao Xiao, Xu Zhi, Linwei Li, Ziyan Wu, and Laurent Itti
+_Under Review_ [\[Paper\]](https://zoeyzheng0.github.io/files/HNI/HNI.pdf)
+
 GaitSTR: Gait Recognition with Sequential Two-stream Refinement<br>
 __Wanrong Zheng__\*, Haidong Zhu\*, Zhaoheng Zheng, and Ram Nevatia  
 _TBIOM 2024_ [\[Paper\]](https://arxiv.org/abs/2404.02345)[\[Code\]](https://github.com/ZoeyZheng0/GaitSTR)
