@@ -14,6 +14,10 @@ My research interests lie in computer vision and deep learning, especially in Da
 - can be reconstructed, understood, and corrected by humans
 
 ## Publications
+Three-Step Nav: A Hierarchical Global–Local Planner for Zero-Shot Vision-and-Language Navigation<br>
+__Wanrong Zheng__, Yunhao Ge, Laurent Itti<br>
+_Under Review_
+
 A Graphical Framework for Knowledge Exchange between Humans and Neural Networks<br>
 __Wanrong Zheng__\*, Yunhao Ge\*, Xingrui Wang, Di Wu, Yao Xiao, Xu Zhi, Linwei Li, Ziyan Wu, Laurent Itti<br>
 _Under Review_ [\[Paper\]](https://zoeyzheng0.github.io/files/HNI/HNI.pdf)
