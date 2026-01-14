@@ -83,8 +83,8 @@ if (plotlyElements.length > 0) {
    ========================================================================== */
 
 $(document).ready(function () {
-  // SCSS SETTINGS - These should be the same as the settings in the relevant files 
-  const scssLarge = 925;          // pixels, from /_sass/_themes.scss
+  // SCSS SETTINGS - These should be the same as the settings in the relevant files
+  const scssLarge = 768;          // pixels, matches $sidebar-large from /_sass/_themes.scss
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
 
   // Clear any existing dark theme settings and force light theme
