@@ -74,3 +74,6 @@ Advisor: Dr. [Qiong Wang](https://dblp.org/pid/65/3144-1.html)
 
 [Shenzhen Research Institute](https://www.cuhkri.org.cn/en.html), the Chinese University of Hong Kong, China <br/>
 Research Intern. Dec. 2017 – Jun. 2018 <br/>
+
+## Academic Service
+Reviewer: CVPR 2026, AISTATS 2026, IEEE Transactions on Cognitive and Developmental Systems, IEEE Transactions on Multimedia
