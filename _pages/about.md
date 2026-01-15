@@ -49,7 +49,7 @@ _AAAI 2021_ [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16262)[
 ## Research Experience
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60">
 [iLab](http://ilab.usc.edu/), USC, Los Angeles, CA <br/>
-Research Assistant. Jan. 2022 – Present <br/>
+Research Assistant. May. 2024 – Present <br/>
 Advisor: Prof. [Laurent Itti](http://ilab.usc.edu/itti/)
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60" >
