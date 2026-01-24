@@ -76,4 +76,4 @@ Advisor: Dr. [Qiong Wang](https://dblp.org/pid/65/3144-1.html)
 Research Intern. Dec. 2017 – Jun. 2018 <br/>
 
 ## Academic Service
-Reviewer: CVPR, AISTATS, IEEE Transactions on Multimedia, IEEE Transactions on Cognitive and Developmental Systems, International Journal of Computer Vision
+Reviewer: CVPR, ECCV, AISTATS, IEEE Transactions on Multimedia, IEEE Transactions on Cognitive and Developmental Systems, International Journal of Computer Vision
