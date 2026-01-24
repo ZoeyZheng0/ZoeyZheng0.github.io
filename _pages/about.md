@@ -11,7 +11,7 @@ Hi there 👋 I am a CS Ph.D. student in Computer Science at the University of S
 My research interests lie in computer vision and deep learning, especially in Data-centric and Human-centric AI. In the long term, I aim to to build a data-driven AI system that:
 - recognizes and represents scenes effectively, 
 - is adaptive to multi-modalities (vision, language, spatial information, etc.), 
-- can be reconstructed, understood, and corrected by humans
+- can be reconstructed, understood, and corrected by humans.
 
 ## Publications
 A Graphical Framework for Knowledge Exchange between Humans and Neural Networks<br>
