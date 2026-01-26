@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there 👋 I am a CS Ph.D. student in Computer Science at the University of Southern Califonia, advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Previously, I have the privilege of working with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
+Hi there 👋 I am a second-year CS Ph.D. student in Computer Science at the University of Southern Califonia, advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Previously, I have the privilege of working with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
 
 My research interests lie in computer vision and deep learning, especially in Data-centric and Human-centric AI. In the long term, I aim to to build a data-driven AI system that:
 - recognizes and represents scenes effectively, 
