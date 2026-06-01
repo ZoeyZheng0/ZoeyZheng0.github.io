@@ -62,7 +62,7 @@ Advisor: Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-neva
 
 [SenseTime](https://www.sensetime.com/en), China <br/>
 Research Engineer. Sep. 2019 – Aug. 2021 <br/>
-Advisor: Dr. [Xiaoke Jiang](hhttps://shockjiang.github.io) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en)
+Advisor: Dr. [Xiaoke Jiang](https://shockjiang.github.io/) and Dr. [Ding Liang](https://scholar.google.com/citations?user=Dqjnn0gAAAAJ&hl=zh-CN)
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/siat-logo.png" width="60">
 
