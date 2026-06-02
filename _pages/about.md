@@ -23,9 +23,9 @@ GaitSTR: Gait Recognition with Sequential Two-stream Refinement<br>
 __Wanrong Zheng__\*, [Haidong Zhu](https://haidongz-usc.github.io/)\*, [Zhaoheng Zheng](https://zhaohengz.github.io/), [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)  
 _TBIOM 2024_ [\[Paper\]](https://arxiv.org/abs/2404.02345)[\[Code\]](https://github.com/ZoeyZheng0/GaitSTR)
 
-ShARc: Shape and Appearance Recognition for Person Identification In-the-wild<br>
+<!-- ShARc: Shape and Appearance Recognition for Person Identification In-the-wild<br>
 [Haidong Zhu](https://haidongz-usc.github.io/), __Wanrong Zheng__, [Zhaoheng Zheng](https://zhaohengz.github.io/), [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)  
-_WACV 2024_ [\[Paper\]](https://arxiv.org/abs/2310.15946)
+_WACV 2024_ [\[Paper\]](https://arxiv.org/abs/2310.15946) -->
 
 GaitRef: Gait Recognition with Refined Sequential Skeletons<br>
 [Haidong Zhu](https://haidongz-usc.github.io/)\*, __Wanrong Zheng__\*, [Zhaoheng Zheng](https://zhaohengz.github.io/), [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)  
