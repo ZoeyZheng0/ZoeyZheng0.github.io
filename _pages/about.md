@@ -73,6 +73,6 @@ Advisor: Dr. [Qiong Wang](https://dblp.org/pid/65/3144-1.html)
 Research Intern. Dec. 2017 – Jun. 2018 <br/>
 
 ## Academic Service
-Conference Reviewer: CVPR, ECCV, NeurIPS, AISTATS
+Conference Reviewer: CVPR 2026, ECCV 2026, NeurIPS 2026, AISTATS 2026
 
 Journal Reviewer: IEEE Transactions on Multimedia, IEEE Transactions on Cognitive and Developmental Systems, International Journal of Computer Vision
