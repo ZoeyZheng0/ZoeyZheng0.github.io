@@ -11,9 +11,9 @@ Hi there 👋 I am a second-year CS Ph.D. student in Computer Science at the Uni
 My research interests lie in Vison-and-Language Navigation and Multi-Modal Reasoning.
 
 ## Selected Publications
-A Graphical Framework for Knowledge Exchange between Humans and Neural Networks<br>
+<!-- A Graphical Framework for Knowledge Exchange between Humans and Neural Networks<br>
 __Wanrong Zheng__\*, [Yunhao Ge](https://gyhandy.github.io/)\*, [Xingrui Wang](https://xingruiwang.github.io/), [Di Wu](https://scholar.google.com/citations?user=5OaDlK8AAAAJ&hl=en), [Yao Xiao](https://avaxiao.github.io/), [Xu Zhi](https://scholar.google.com/citations?user=NXUbfLYAAAAJ&hl=en), [Linwei Li](https://openreview.net/profile?id=~Linwei_Li2), [Ziyan Wu](https://wuziyan.com/), [Laurent Itti](http://ilab.usc.edu/itti/)<br>
-_Under Review_ [\[Paper\]](https://zoeyzheng0.github.io/files/HNI/HNI.pdf)
+_Under Review_ [\[Paper\]](https://zoeyzheng0.github.io/files/HNI/HNI.pdf) -->
 
 Three-Step Nav: A Hierarchical Global–Local Planner for Zero-Shot Vision-and-Language Navigation<br>
 __Wanrong Zheng__, [Yunhao Ge](https://gyhandy.github.io/), [Laurent Itti](http://ilab.usc.edu/itti/)<br>
