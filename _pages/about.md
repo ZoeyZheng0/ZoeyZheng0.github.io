@@ -17,7 +17,7 @@ _Under Review_ [\[Paper\]](https://zoeyzheng0.github.io/files/HNI/HNI.pdf) -->
 
 Three-Step Nav: A Hierarchical Global–Local Planner for Zero-Shot Vision-and-Language Navigation<br>
 __Wanrong Zheng__, [Yunhao Ge](https://gyhandy.github.io/), [Laurent Itti](http://ilab.usc.edu/itti/)<br>
-_AISTATS 2026_ [\[Paper\]](https://arxiv.org/abs/2604.26946)[\[Code\]](https://github.com/ZoeyZheng0/3-step-Nav)[\[Supp\]](https://zoeyzheng0.github.io/files/ThreeStepNav/ThreeStepNav_supp.pdf)
+_AISTATS 2026_ [\[Paper\]](https://arxiv.org/abs/2604.26946)[\[Code\]](https://github.com/ZoeyZheng0/3-step-Nav)
 
 GaitSTR: Gait Recognition with Sequential Two-stream Refinement<br>
 __Wanrong Zheng__\*, [Haidong Zhu](https://haidongz-usc.github.io/)\*, [Zhaoheng Zheng](https://zhaohengz.github.io/), [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)  
