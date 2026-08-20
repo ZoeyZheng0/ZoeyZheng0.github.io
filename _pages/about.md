@@ -15,8 +15,8 @@ My research interests lie in Vison-and-Language Navigation and Multi-Modal Perce
 <div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
   <img src="/images/paper/threestepnav.png" style="width: 36%; margin-right: 20px;" />
   <div>
-    <h2 style="font-size: 18px; margin: 0 0 0.3em 0; padding-bottom: 0; border-bottom: none;">Three-Step Nav: A Hierarchical Global–Local Planner for Zero-Shot Vision-and-Language Navigation</h2>
-    <p style="font-size: 15px; margin-bottom: -0.05em;"><b>Wanrong Zheng</b>, <a href="https://gyhandy.github.io/">Yunhao Ge</a>, <a href="http://ilab.usc.edu/itti/">Laurent Itti</a></p>
+    <p style="font-size: 15px; margin-bottom: -0.05em;">Three-Step Nav: A Hierarchical Global–Local Planner for Zero-Shot Vision-and-Language Navigation</p>
+    <p style="font-size: 15px; margin-bottom: -0.05em;">Wanrong Zheng, <a href="https://gyhandy.github.io/">Yunhao Ge</a>, <a href="http://ilab.usc.edu/itti/">Laurent Itti</a></p>
     <p style="font-size: 15px; margin-bottom: 0;"><i>AISTATS 2026</i> <a href="https://arxiv.org/abs/2604.26946">[Paper]</a> <a href="https://github.com/ZoeyZheng0/ThreeStepNav">[Code]</a></p>
   </div>
 </div>
@@ -24,8 +24,8 @@ My research interests lie in Vison-and-Language Navigation and Multi-Modal Perce
 <div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
   <img src="/images/paper/gaitstr.png" style="width: 36%; margin-right: 20px;" />
   <div>
-    <h2 style="font-size: 18px; margin: 0 0 0.3em 0; padding-bottom: 0; border-bottom: none;">GaitSTR: Gait Recognition with Sequential Two-stream Refinement</h2>
-    <p style="font-size: 15px; margin-bottom: -0.05em;"><b>Wanrong Zheng</b>*, <a href="https://haidongz-usc.github.io/">Haidong Zhu</a>*, <a href="https://zhaohengz.github.io/">Zhaoheng Zheng</a>, <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a></p>
+    <p style="font-size: 15px; margin-bottom: -0.05em;">GaitSTR: Gait Recognition with Sequential Two-stream Refinement</p>
+    <p style="font-size: 15px; margin-bottom: -0.05em;">Wanrong Zheng*, <a href="https://haidongz-usc.github.io/">Haidong Zhu</a>*, <a href="https://zhaohengz.github.io/">Zhaoheng Zheng</a>, <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a></p>
     <p style="font-size: 15px; margin-bottom: 0;"><i>TBIOM 2024</i> <a href="https://arxiv.org/abs/2404.02345">[Paper]</a> <a href="https://github.com/ZoeyZheng0/GaitSTR">[Code]</a></p>
   </div>
 </div>
@@ -33,8 +33,8 @@ My research interests lie in Vison-and-Language Navigation and Multi-Modal Perce
 <div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
   <img src="/images/paper/gaitref.png" style="width: 36%; margin-right: 20px;" />
   <div>
-    <h2 style="font-size: 18px; margin: 0 0 0.3em 0; padding-bottom: 0; border-bottom: none;">GaitRef: Gait Recognition with Refined Sequential Skeletons</h2>
-    <p style="font-size: 15px; margin-bottom: -0.05em;"><a href="https://haidongz-usc.github.io/">Haidong Zhu</a>*, <b>Wanrong Zheng</b>*, <a href="https://zhaohengz.github.io/">Zhaoheng Zheng</a>, <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a></p>
+    <p style="font-size: 15px; margin-bottom: -0.05em;">GaitRef: Gait Recognition with Refined Sequential Skeletons</p>
+    <p style="font-size: 15px; margin-bottom: -0.05em;"><a href="https://haidongz-usc.github.io/">Haidong Zhu</a>*, Wanrong Zheng*, <a href="https://zhaohengz.github.io/">Zhaoheng Zheng</a>, <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a></p>
     <p style="font-size: 15px; margin-bottom: 0;"><i>IJCB 2023 <span style="color:red">Oral</span></i> <a href="https://arxiv.org/abs/2304.07916">[Paper]</a> <a href="https://github.com/haidongz-usc/GaitRef">[Code]</a></p>
   </div>
 </div>
