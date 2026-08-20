@@ -11,33 +11,33 @@ I am a third-year CS Ph.D. student in Computer Science at the University of Sout
 My research interests lie in Vison-and-Language Navigation and Multi-Modal Perception.
 
 ## Selected Publications
-<!-- A Graphical Framework for Knowledge Exchange between Humans and Neural Networks<br>
-__Wanrong Zheng__\*, [Yunhao Ge](https://gyhandy.github.io/)\*, [Xingrui Wang](https://xingruiwang.github.io/), [Di Wu](https://scholar.google.com/citations?user=5OaDlK8AAAAJ&hl=en), [Yao Xiao](https://avaxiao.github.io/), [Xu Zhi](https://scholar.google.com/citations?user=NXUbfLYAAAAJ&hl=en), [Linwei Li](https://openreview.net/profile?id=~Linwei_Li2), [Ziyan Wu](https://wuziyan.com/), [Laurent Itti](http://ilab.usc.edu/itti/)<br>
-_Under Review_ [\[Paper\]](https://zoeyzheng0.github.io/files/HNI/HNI.pdf) -->
 
-Three-Step Nav: A Hierarchical Global–Local Planner for Zero-Shot Vision-and-Language Navigation<br>
-__Wanrong Zheng__, [Yunhao Ge](https://gyhandy.github.io/), [Laurent Itti](http://ilab.usc.edu/itti/)<br>
-_AISTATS 2026_ [\[Paper\]](https://arxiv.org/abs/2604.26946)[\[Code\]](https://github.com/ZoeyZheng0/ThreeStepNav)
+<div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
+  <img src="/images/paper/threestepnav.png" style="width: 36%; margin-right: 20px;" />
+  <div>
+    <h2 style="font-size: 18px; margin: 0 0 0.3em 0; padding-bottom: 0; border-bottom: none;">Three-Step Nav: A Hierarchical Global–Local Planner for Zero-Shot Vision-and-Language Navigation</h2>
+    <p style="font-size: 15px; margin-bottom: -0.05em;"><b>Wanrong Zheng</b>, <a href="https://gyhandy.github.io/">Yunhao Ge</a>, <a href="http://ilab.usc.edu/itti/">Laurent Itti</a></p>
+    <p style="font-size: 15px; margin-bottom: 0;"><i>AISTATS 2026</i> <a href="https://arxiv.org/abs/2604.26946">[Paper]</a> <a href="https://github.com/ZoeyZheng0/ThreeStepNav">[Code]</a></p>
+  </div>
+</div>
 
-GaitSTR: Gait Recognition with Sequential Two-stream Refinement<br>
-__Wanrong Zheng__\*, [Haidong Zhu](https://haidongz-usc.github.io/)\*, [Zhaoheng Zheng](https://zhaohengz.github.io/), [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)  
-_TBIOM 2024_ [\[Paper\]](https://arxiv.org/abs/2404.02345)[\[Code\]](https://github.com/ZoeyZheng0/GaitSTR)
+<div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
+  <img src="/images/paper/gaitstr.png" style="width: 36%; margin-right: 20px;" />
+  <div>
+    <h2 style="font-size: 18px; margin: 0 0 0.3em 0; padding-bottom: 0; border-bottom: none;">GaitSTR: Gait Recognition with Sequential Two-stream Refinement</h2>
+    <p style="font-size: 15px; margin-bottom: -0.05em;"><b>Wanrong Zheng</b>*, <a href="https://haidongz-usc.github.io/">Haidong Zhu</a>*, <a href="https://zhaohengz.github.io/">Zhaoheng Zheng</a>, <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a></p>
+    <p style="font-size: 15px; margin-bottom: 0;"><i>TBIOM 2024</i> <a href="https://arxiv.org/abs/2404.02345">[Paper]</a> <a href="https://github.com/ZoeyZheng0/GaitSTR">[Code]</a></p>
+  </div>
+</div>
 
-<!-- ShARc: Shape and Appearance Recognition for Person Identification In-the-wild<br>
-[Haidong Zhu](https://haidongz-usc.github.io/), __Wanrong Zheng__, [Zhaoheng Zheng](https://zhaohengz.github.io/), [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)  
-_WACV 2024_ [\[Paper\]](https://arxiv.org/abs/2310.15946) -->
-
-GaitRef: Gait Recognition with Refined Sequential Skeletons<br>
-[Haidong Zhu](https://haidongz-usc.github.io/)\*, __Wanrong Zheng__\*, [Zhaoheng Zheng](https://zhaohengz.github.io/), [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)  
-_IJCB 2023 <span style="color:red">Oral</span>_ [\[Paper\]](https://arxiv.org/abs/2304.07916)[\[Code\]](https://github.com/haidongz-usc/GaitRef)
-
-<!-- CAT-NeRF: Constancy-Aware Tx2Former for Dynamic Body Modeling<br>
-[Haidong Zhu](https://haidongz-usc.github.io/), [Zhaoheng Zheng](https://zhaohengz.github.io/), __Wanrong Zheng__, [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)  
-_CVPR Workshop 2023_ [\[Paper\]](https://arxiv.org/abs/2304.07915)[\[Code\]](https://github.com/haidongz-usc/CAT-NeRF)[\[Supp\]](https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4) 
-
-SSN3D: Self-Separated Network to Align Parts for 3D Convolution in Video Person Re-Identification<br> 
-[Xiaoke Jiang](https://shockjiang.github.io/), [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao), [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ), [Qichen Li](https://www.linkedin.com/in/qichen-li-33190a17b/), __Wanrong Zheng__, [Dapeng Chen](https://scholar.google.com/citations?user=-Wpd7FcAAAAJ&hl=en)  
-_AAAI 2021_ [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16262)[\[Supp\]](https://ZoeyZheng0.github.io/files/SSN3D/appendix.pdf) -->
+<div style="display: flex; flex-direction: row; align-items: center; margin-top: 5px; margin-bottom: 1em;">
+  <img src="/images/paper/gaitref.png" style="width: 36%; margin-right: 20px;" />
+  <div>
+    <h2 style="font-size: 18px; margin: 0 0 0.3em 0; padding-bottom: 0; border-bottom: none;">GaitRef: Gait Recognition with Refined Sequential Skeletons</h2>
+    <p style="font-size: 15px; margin-bottom: -0.05em;"><a href="https://haidongz-usc.github.io/">Haidong Zhu</a>*, <b>Wanrong Zheng</b>*, <a href="https://zhaohengz.github.io/">Zhaoheng Zheng</a>, <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a></p>
+    <p style="font-size: 15px; margin-bottom: 0;"><i>IJCB 2023 <span style="color:red">Oral</span></i> <a href="https://arxiv.org/abs/2304.07916">[Paper]</a> <a href="https://github.com/haidongz-usc/GaitRef">[Code]</a></p>
+  </div>
+</div>
 
 ## Awards
 <span style="color:red">1st</span> on [MS1M](https://arxiv.org/abs/1607.08221) dataset in _ICCV 2021_ [Masked Face Recognition Challenge](https://arxiv.org/abs/2108.08191) out of 136 teams. <br>
