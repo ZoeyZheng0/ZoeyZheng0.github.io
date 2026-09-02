@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zoey Zheng 郑莞蓉"
+title                    : "Wanrong Zheng 郑莞蓉"
 title_separator          : "-"
 name                     : &name "Wanrong (Zoey) Zheng"
 description              : &description "Computer Science Ph.D. student @ University of Southern California."
