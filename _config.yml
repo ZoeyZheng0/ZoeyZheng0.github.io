@@ -233,6 +233,11 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # hide talkmap static files from search engines
+  - scope:
+      path: "talkmap"
+    values:
+      sitemap: false
   # _posts
   - scope:
       path: ""

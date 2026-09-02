@@ -3,6 +3,8 @@ layout: archive
 title: "Personal"
 permalink: /personal/
 author_profile: true
+sitemap: false
+noindex: true
 ---
 
 {% include base_path %}
