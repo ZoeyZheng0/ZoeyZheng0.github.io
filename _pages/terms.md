@@ -4,6 +4,7 @@ title: "Terms and Privacy Policy"
 modified: 2016-06-06
 sitemap: false
 noindex: true
+published: false
 ---
 
 {% include base_path %}

@@ -5,6 +5,7 @@ permalink: /sitemap/
 author_profile: true
 sitemap: false
 noindex: true
+published: false
 ---
 
 {% include base_path %}

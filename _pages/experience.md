@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 sitemap: false
 noindex: true
+published: false
 ---
 
 {% include base_path %}

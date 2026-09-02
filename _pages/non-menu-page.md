@@ -7,6 +7,7 @@ redirect_from:
   - "/nmp.html"
 sitemap: false
 noindex: true
+published: false
 ---
 
 This is a page not in the menu. You can use markdown in this page.

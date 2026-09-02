@@ -4,6 +4,7 @@ layout: archive
 permalink: /archive-layout-with-content/
 sitemap: false
 noindex: true
+published: false
 ---
 
 A variety of common markup showing how the theme styles them.

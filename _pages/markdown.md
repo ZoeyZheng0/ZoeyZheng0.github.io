@@ -7,6 +7,7 @@ redirect_from:
   - /markdown.html
 sitemap: false
 noindex: true
+published: false
 ---
 
 {% include toc %}

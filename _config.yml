@@ -162,6 +162,7 @@ include:
   - _pages
   - files
 exclude:
+  - talkmap
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
