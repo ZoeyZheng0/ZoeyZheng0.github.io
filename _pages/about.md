@@ -61,12 +61,6 @@ Advisor: Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-neva
 Research Engineer. Sep. 2019 – Aug. 2021 <br/>
 Advisor: Dr. [Xiaoke Jiang](https://shockjiang.github.io/) and Dr. [Ding Liang](https://scholar.google.com/citations?user=Dqjnn0gAAAAJ&hl=en)
 
-<img style="float: right;" src="/images/logos/siat-logo.png" width="60">
-
-[Chinese Academy of Sciences](https://english.cas.cn/), China <br/>
-Research Assistant. Jul. 2018 – Jun. 2019 <br/>
-Advisor: Dr. [Qiong Wang](https://dblp.org/pid/65/3144-1.html)
-
 ## Academic Service
 Conference Reviewer: CVPR 2026, ECCV 2026, NeurIPS 2026, AISTATS 2026
 
@@ -81,12 +75,6 @@ details.misc-fold summary:hover { color: #52adc8; }
 details.misc-fold[open] summary { margin-bottom: 0.4em; }
 details.misc-fold ul { margin: 0.2em 0 0.4em; list-style: none; padding-left: 0; }
 </style>
-
-<details class="misc-fold" open>
-  <summary>My Footprint</summary>
-  <img src="/images/personal/us-travel-map.jpg" style="display: block; margin: 0.5em auto; width: 320px; max-width: 100%;" alt="Map of the U.S. places I have visited">
-  <p style="text-align: center; font-size: 14px; color: #808080; margin: 0.3em 0 0.5em;">My travel footprint across the U.S. — 10 states down, 40 to go :)</p>
-</details>
 
 <details class="misc-fold">
   <summary>All-time Favorites</summary>
@@ -122,4 +110,10 @@ details.misc-fold ul { margin: 0.2em 0 0.4em; list-style: none; padding-left: 0;
       </ul>
     </div>
   </div>
+</details>
+
+<details class="misc-fold">
+  <summary>My Footprint</summary>
+  <img src="/images/personal/us-travel-map.jpg" style="display: block; margin: 0.5em auto; width: 320px; max-width: 100%;" alt="Map of the U.S. places I have visited">
+  <p style="text-align: center; font-size: 14px; color: #808080; margin: 0.3em 0 0.5em;">My travel footprint across the U.S. — 10 states down, 40 to go :)</p>
 </details>
