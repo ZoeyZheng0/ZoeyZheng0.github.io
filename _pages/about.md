@@ -62,7 +62,7 @@ Research Engineer. Sep. 2019 – Aug. 2021 <br/>
 Advisor: Dr. [Xiaoke Jiang](https://shockjiang.github.io/) and Dr. [Ding Liang](https://scholar.google.com/citations?user=Dqjnn0gAAAAJ&hl=en)
 
 ## Academic Service
-Conference Reviewer: CVPR 2026, ECCV 2026, NeurIPS 2026, AISTATS 2026
+Conference Reviewer: CVPR 2026, ECCV 2026, NeurIPS 2026, AISTATS 2026-2027
 
 Journal Reviewer: IEEE Transactions on Multimedia, IEEE Transactions on Cognitive and Developmental Systems, International Journal of Computer Vision
 ## Miscellaneous
