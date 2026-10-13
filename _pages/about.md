@@ -64,7 +64,7 @@ Advisor: Dr. [Xiaoke Jiang](https://shockjiang.github.io/) and Dr. [Ding Liang](
 ## Academic Service
 Conference Reviewer: CVPR 2026, ECCV 2026, NeurIPS 2026, AISTATS 2026-2027
 
-Journal Reviewer: IEEE Transactions on Multimedia, IEEE Transactions on Cognitive and Developmental Systems, International Journal of Computer Vision
+Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Multimedia, IEEE Transactions on Cognitive and Developmental Systems, International Journal of Computer Vision
 ## Miscellaneous
 I am a huge anime and movie fan — over 1,000 films and counting. During breaks, I also love traveling and exploring new places.
 
