@@ -63,13 +63,13 @@ Advisor: Dr. [Ding Liang](https://scholar.google.com/citations?user=Dqjnn0gAAAAJ
 
 <img style="float: right;" src="/images/logos/siat-logo.png" width="60">
 
-[Shenzhen Institutes of Advanced Technology](https://english.siat.ac.cn/), Chinese Academy of Sciences, China <br/>
+[Chinese Academy of Sciences](https://english.siat.ac.cn/), China <br/>
 Research Assistant. Jul. 2018 – Jun. 2019 <br/>
 Advisor: Dr. [Qiong Wang](https://dblp.org/pid/65/3144-1.html)
 
 <img style="float: right;" src="/images/logos/cuhkri.png" width="60">
 
-[Shenzhen Research Institute](https://www.cuhkri.org.cn/en.html), The Chinese University of Hong Kong, China <br/>
+[The Chinese University of Hong Kong](https://www.cuhkri.org.cn/en.html), China <br/>
 Research Intern. Dec. 2017 – Jun. 2018
 
 ## Academic Service
