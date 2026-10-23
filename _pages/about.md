@@ -59,7 +59,18 @@ Advisor: Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-neva
 
 [SenseTime](https://www.sensetime.com/en), China <br/>
 Research Engineer. Sep. 2019 – Aug. 2021 <br/>
-Advisor: Dr. [Xiaoke Jiang](https://shockjiang.github.io/) and Dr. [Ding Liang](https://scholar.google.com/citations?user=Dqjnn0gAAAAJ&hl=en)
+Advisor: Dr. [Ding Liang](https://scholar.google.com/citations?user=Dqjnn0gAAAAJ&hl=en) and Dr. [Xiaoke Jiang](https://shockjiang.github.io/)
+
+<img style="float: right;" src="/images/logos/siat-logo.png" width="60">
+
+[Shenzhen Institutes of Advanced Technology](https://english.siat.ac.cn/), Chinese Academy of Sciences, China <br/>
+Research Assistant. Jul. 2018 – Jun. 2019 <br/>
+Advisor: Dr. [Qiong Wang](https://dblp.org/pid/65/3144-1.html)
+
+<img style="float: right;" src="/images/logos/cuhkri.png" width="60">
+
+[Shenzhen Research Institute](https://www.cuhkri.org.cn/en.html), The Chinese University of Hong Kong, China <br/>
+Research Intern. Dec. 2017 – Jun. 2018
 
 ## Academic Service
 Conference Reviewer: CVPR 2026, ECCV 2026, NeurIPS 2026, AISTATS 2026-2027
