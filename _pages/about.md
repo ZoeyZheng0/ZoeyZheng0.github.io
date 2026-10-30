@@ -95,14 +95,14 @@ details.misc-fold ul { margin: 0.2em 0 0.4em; list-style: none; padding-left: 0;
       <ul>
         <li><a href="https://www.imdb.com/title/tt0112159/">Neon Genesis Evangelion</a> (新世紀エヴァンゲリオン)</li>
         <li><a href="https://www.imdb.com/title/tt2560140/">Attack on Titan</a> (進撃の巨人)</li>
+        <li><a href="https://www.imdb.com/title/tt0500092/">Serial Experiments Lain</a></li>
+        <li><a href="https://www.imdb.com/title/tt31711040/">Look Back</a> (ルックバック)</li>
         <li><a href="https://www.imdb.com/title/tt1847445/">The Tatami Galaxy</a> (四畳半神話大系)</li>
         <li><a href="https://www.imdb.com/title/tt2013293/">The Wind Rises</a> (風立ちぬ)</li>
-        <li><a href="https://www.imdb.com/title/tt0113568/">Ghost in the Shell</a> (攻殻機動隊)</li>
-        <li><a href="https://www.imdb.com/title/tt0500092/">Serial Experiments Lain</a></li>
+        <li><a href="https://www.imdb.com/title/tt30472557/">Chainsaw Man – The Movie: Reze Arc</a> (チェンソーマン レゼ篇)</li>
         <li><a href="https://www.imdb.com/title/tt27610198/">The Amazing Digital Circus</a></li>
+        <li><a href="https://www.imdb.com/title/tt0113568/">Ghost in the Shell</a> (攻殻機動隊)</li>
         <li><a href="https://www.imdb.com/title/tt6335734/">Night Is Short, Walk On Girl</a> (夜は短し歩けよ乙女)</li>
-        <li><a href="https://www.imdb.com/title/tt2380307/">Coco</a></li>
-        <li><a href="https://www.imdb.com/title/tt2861424/">Rick and Morty</a></li>
       </ul>
     </div>
     <div style="flex: 1; min-width: 220px;">
