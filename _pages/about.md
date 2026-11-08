@@ -8,10 +8,7 @@ redirect_from:
 ---
 I am a third-year Ph.D. student in Computer Science at the University of Southern California, advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Previously, I had the privilege of working with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
 
-My research interests include:
-- **LLM Spatial Intelligence**: developing language-guided agents that understand and navigate complex visual environments.
-- **Multimodal Perception**: exploring the synergistic effects of diverse data for enhanced machine understanding.
-- **Human-AI Knowledge Exchange**: enabling humans to understand and guide neural networks through structured visual concepts.
+My research interests lie in LLM Spatial Intelligence, Multimodal Perception, and Human-AI Knowledge Exchange.
 
 ## Selected Publications
 
