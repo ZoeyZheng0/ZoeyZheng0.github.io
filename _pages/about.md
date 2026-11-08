@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year CS Ph.D. student in Computer Science at the University of Southern California, advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Previously, I have the privilege of working with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
+I am a third-year Ph.D. student in Computer Science at the University of Southern California, advised by Prof. [Laurent Itti](http://ilab.usc.edu/itti/). Previously, I had the privilege of working with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
 
-My research interests lie in Vison-and-Language Navigation and Multi-Modal Perception.
+My research interests lie in Vision-and-Language Navigation and Multi-Modal Perception.
 
 ## Selected Publications
 
