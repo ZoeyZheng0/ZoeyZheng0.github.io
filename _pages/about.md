@@ -46,13 +46,13 @@ My research interests lie in Vision-and-Language Navigation and Multi-Modal Perc
 ## Research Experience
 <img style="float: right;" src="/images/logos/USC.png" width="60">
 [iLab](http://ilab.usc.edu/), USC, Los Angeles, CA <br/>
-Research Assistant. May. 2024 – Present <br/>
+Research Assistant. May 2024 – Present <br/>
 Advisor: Prof. [Laurent Itti](http://ilab.usc.edu/itti/)
 
 <img style="float: right;" src="/images/logos/USC.png" width="60" >
 
 [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/), USC, Los Angeles, CA <br/>
-Research Assistant. Jan. 2022 – May. 2024 <br/>
+Research Assistant. Jan. 2022 – May 2024 <br/>
 Advisor: Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)
 
 <img style="float: right;" src="/images/logos/sensetime.png" width="60">
